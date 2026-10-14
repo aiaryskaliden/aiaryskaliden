@@ -1,21 +1,31 @@
-# Hi, I'm aiaryskaliden
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Aiarys Kaliden — student from Kazakhstan exploring Python, data analysis and machine learning." />
+</p>
 
-I'm a student from Kazakhstan interested in programming, mathematics, and machine learning.
+<p align="center">
+  <a href="https://www.kaggle.com/kalidenaiarys">Kaggle</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/aiaryskaliden?tab=repositories">Repositories</a>
+</p>
 
-I enjoy figuring out how things work and trying different approaches to problems. This is where I keep the projects I'm working on and document what I learn along the way.
+<br>
 
-### What I'm working on
+### About
 
-- Exploring Python and data analysis
-- Getting started with machine learning
-- Building projects and improving them as I learn
+I'm a student from Kazakhstan interested in programming, mathematics, and machine learning. I enjoy working with data, trying different approaches to problems, and documenting what I learn.
 
-### Projects
+### Working with
+
+`Python` &nbsp; `pandas` &nbsp; `scikit-learn`
+
+Currently exploring data analysis and machine learning through hands-on projects.
+
+### Selected project
 
 **[Titanic Historical Record Linkage](https://github.com/aiaryskaliden/titanic-historical-record-linkage)**
 
-A project exploring how records from the Kaggle Titanic dataset can be matched with historical passenger data. It focuses on record matching, consistency checks, and documenting the results rather than training a prediction model.
+Matching Kaggle Titanic records with historical passenger data, with a focus on consistency checks and reproducible results. This project uses historical record matching rather than a predictive machine learning model.
 
-### Elsewhere
+---
 
-[Kaggle](https://www.kaggle.com/kalidenaiarys)
+<sub>Learning through projects. Documenting the process.</sub>
