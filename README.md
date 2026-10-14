@@ -3,6 +3,8 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/aiaryskaliden/aiaryskaliden/blob/main/PROJECTS.md">Projects</a>
+  &nbsp; / &nbsp;
   <a href="https://www.kaggle.com/kalidenaiarys">Kaggle</a>
   &nbsp; / &nbsp;
   <a href="https://github.com/aiaryskaliden?tab=repositories">Repositories</a>
@@ -20,11 +22,13 @@ I'm a student from Kazakhstan interested in programming, mathematics, and machin
 
 Currently exploring data analysis and machine learning through hands-on projects.
 
-### Selected project
+### Projects
 
-**[Titanic Historical Record Linkage](https://github.com/aiaryskaliden/titanic-historical-record-linkage)**
+<a href="https://github.com/aiaryskaliden/aiaryskaliden/blob/main/PROJECTS.md">
+  <img src="./assets/projects-collection.svg" width="100%" alt="Projects — explore my collection of code, notebooks, and experiments." />
+</a>
 
-Matching Kaggle Titanic records with historical passenger data, with a focus on consistency checks and reproducible results. This project uses historical record matching rather than a predictive machine learning model.
+[View all projects](https://github.com/aiaryskaliden/aiaryskaliden/blob/main/PROJECTS.md) &nbsp; / &nbsp; Featured: [Titanic — Historical Record Linkage](https://github.com/aiaryskaliden/aiaryskaliden/blob/main/PROJECTS.md#titanic--historical-record-linkage)
 
 ---
 
