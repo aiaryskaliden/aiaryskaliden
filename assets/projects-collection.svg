@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-labelledby="title desc">
+<title id="title">Projects — Aiarys Kaliden</title>
+<desc id="desc">Explore my collection of projects, notebooks and experiments.</desc>
+<rect x=".5" y=".5" width="959" height="189" rx="14" fill="#111820" stroke="#2b3642"/>
+<rect x="36" y="34" width="28" height="2" fill="#9fbad0"/>
+<text x="77" y="39" fill="#97a7b7" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.5">THE COLLECTION</text>
+<text x="34" y="99" fill="#f0f3f6" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="600" letter-spacing="-1">Projects</text>
+<text x="36" y="135" fill="#b0bdca" font-family="Arial, Helvetica, sans-serif" font-size="17">Code, notebooks, and the process behind them.</text>
+<path d="M678 38V152" stroke="#2b3642"/>
+<text x="715" y="89" fill="#f0f3f6" font-family="Arial, Helvetica, sans-serif" font-size="18">Explore the collection</text>
+<path d="M717 116H778M770 108L778 116L770 124" fill="none" stroke="#9fbad0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
