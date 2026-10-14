@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">Aiarys Kaliden</title>
+  <desc id="desc">Student from Kazakhstan exploring Python, data analysis and machine learning.</desc>
+  <rect width="960" height="240" rx="14" fill="#111820"/>
+  <path d="M48 43H912" stroke="#2b3642" stroke-width="1"/>
+  <rect x="48" y="43" width="56" height="2" fill="#9fbad0"/>
+  <text x="48" y="79" fill="#97a7b7" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">STUDENT / KAZAKHSTAN</text>
+  <text x="45" y="146" fill="#f0f3f6" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="600" letter-spacing="-2">Aiarys Kaliden</text>
+  <text x="48" y="185" fill="#b0bdca" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing=".3">Python. Data analysis. Machine learning.</text>
+  <path d="M48 211H912" stroke="#2b3642" stroke-width="1"/>
+</svg>
