@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" role="img" aria-labelledby="title desc">
+<title id="title">Titanic — Historical Record Linkage</title>
+<desc id="desc">A Python and pandas project matching passenger records across historical datasets.</desc>
+<rect x=".5" y=".5" width="959" height="309" rx="14" fill="#111820" stroke="#2b3642"/>
+<text x="38" y="44" fill="#97a7b7" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.3">01 / DATA STUDY</text>
+<path d="M38 65H922" stroke="#2b3642"/>
+<text x="35" y="134" fill="#f0f3f6" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="600" letter-spacing="-1.5">Titanic</text>
+<text x="38" y="172" fill="#d0dae3" font-family="Arial, Helvetica, sans-serif" font-size="24">Historical Record Linkage</text>
+<text x="38" y="207" fill="#97a7b7" font-family="Arial, Helvetica, sans-serif" font-size="16">Matching passenger records. Checking identities. Tracing data.</text>
+<path d="M38 236H922" stroke="#2b3642"/>
+<text x="38" y="273" fill="#b0bdca" font-family="Arial, Helvetica, sans-serif" font-size="14">PYTHON / PANDAS</text>
+<text x="746" y="273" fill="#d0dae3" font-family="Arial, Helvetica, sans-serif" font-size="14">VIEW REPOSITORY</text>
+<path d="M891 268H918M911 261L918 268L911 275" fill="none" stroke="#9fbad0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
