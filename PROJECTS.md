@@ -1,45 +1,65 @@
-[Back to profile](https://github.com/aiaryskaliden)
+<p align="center">
+  <img src="./assets/projects-header.svg" width="100%" alt="Projects — dark developer portfolio with violet-blue glow and a code panel." />
+</p>
 
-# Projects
+<p align="center">
+  <a href="https://github.com/aiaryskaliden"><b>← Back to profile</b></a>
+  &nbsp; / &nbsp;
+  <a href="#guardianvoice--team-project"><b>GuardianVoice</b></a>
+  &nbsp; / &nbsp;
+  <a href="#titanic--historical-record-linkage"><b>Titanic</b></a>
+  &nbsp; / &nbsp;
+  <a href="https://www.kaggle.com/kalidenaiarys"><b>Kaggle</b></a>
+</p>
 
-Personal work and projects I've worked on with teammates. I keep the code, approach and limitations easy to explore.
+A selection of my personal and team projects. Here you'll find what we built, the tools behind it, and what the results mean.
 
-<br>
+---
 
 <a href="https://github.com/zoga228/infomatrix_2026_GuardianVoice">
-  <img src="./assets/guardianvoice-project.svg" width="100%" alt="GuardianVoice — team project." />
+  <img src="./assets/guardianvoice-project.svg" width="100%" alt="GuardianVoice — team project, React and Vite prototype." />
 </a>
 
 ### GuardianVoice / Team project
 
-**How could voice-driven interaction make digital tools more accessible?**
+**Exploring more accessible interaction through voice and assisted interfaces.**
 
-I worked on GuardianVoice with a teammate. It's an accessibility and safety interface prototype built using React and Vite, combining voice-triggered features, mapping, camera-assisted scene descriptions and AI chat. It is a prototype, not a validated emergency-response system.
+I worked on **GuardianVoice** with a teammate. We built an accessibility and safety interface prototype using React and Vite, bringing together browser voice interaction, maps, camera-assisted scene descriptions, and an AI chat interface.
 
-`React` &nbsp; `Vite` &nbsp; `Accessibility` &nbsp; `Teamwork`
+`React` &nbsp; `Vite` &nbsp; `Voice interaction` &nbsp; `Accessibility` &nbsp; `Teamwork`
 
-**Explore:** [Project repository](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Readme](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
+The current version is a **prototype**. It uses external services for some AI features and is not validated as an emergency-response system.
+
+**Explore** &nbsp; [Source code](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Project documentation](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
 
 ---
 
 <a href="https://github.com/aiaryskaliden/titanic-historical-record-linkage">
-  <img src="./assets/titanic-project.svg" width="100%" alt="Titanic — Historical Record Linkage. A Python and pandas data project." />
+  <img src="./assets/titanic-project.svg" width="100%" alt="Titanic — Historical Record Linkage, Python and pandas data project." />
 </a>
 
 ### Titanic / Historical Record Linkage
 
-**How can we verify that two datasets describe the same passengers?**
+**What happens when two datasets contain records of the same people?**
 
-This project connects Kaggle Titanic records to Vanderbilt's historical passenger dataset using names and ticket identifiers. It checks for conflicting identities and produces a matching audit and verification report.
+A reproducible Python project matching Kaggle Titanic passenger records with the Vanderbilt Titanic3 historical dataset. The workflow normalizes identity fields, validates one-to-one matches, and outputs verification artifacts.
 
 `Python` &nbsp; `pandas` &nbsp; `Record linkage` &nbsp; `Data validation`
 
-**Recorded results.** The documented run linked all 891 training records and 418 test records, with no ambiguous or unmatched test records. These figures measure record matching; the project retrieves published historical outcomes and does not train a survival-prediction model.
+**Recorded checks:** 891 training records and 418 test records linked, with no unmatched or ambiguous identities in the documented run. These are **record matching results**, not machine-learning accuracy: the approach uses published historical outcomes and does not train a predictive model.
 
-**My contribution.** Defined the approach, researched the historical data source, examined the verification results and documented the Kaggle workflow.
+**My work:** explored the historical data source, developed the matching approach, reviewed the checks, and documented the workflow.
 
-**Explore:** [Source code](https://github.com/aiaryskaliden/titanic-historical-record-linkage) &nbsp; / &nbsp; [Kaggle notebook](https://www.kaggle.com/code/kalidenaiarys/titanic-historical-record-linkage-1309-verified) &nbsp; / &nbsp; [Method and verification](https://github.com/aiaryskaliden/titanic-historical-record-linkage#results-and-verification)
+**Explore** &nbsp; [Source and methods](https://github.com/aiaryskaliden/titanic-historical-record-linkage) &nbsp; / &nbsp; [Kaggle notebook](https://www.kaggle.com/code/kalidenaiarys/titanic-historical-record-linkage-1309-verified) &nbsp; / &nbsp; [Verification details](https://github.com/aiaryskaliden/titanic-historical-record-linkage#results-and-verification)
 
 ---
 
-<sub>Aiarys Kaliden / Project collection</sub>
+<p align="center">
+  <a href="https://github.com/aiaryskaliden"><b>Profile</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/aiaryskaliden?tab=repositories"><b>Repositories</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.kaggle.com/kalidenaiarys"><b>Kaggle</b></a>
+</p>
+
+<p align="center"><sub>Aiarys Kaliden · Building, learning, documenting.</sub></p>
