@@ -28,15 +28,15 @@ I'm a student from Kazakhstan, interested in programming, mathematics and machin
 
 I worked with a teammate on **GuardianVoice**, a personal-safety and accessibility prototype focused on Kazakhstan. It combines **voice-triggered SOS**, an SMS handoff with optional location details, an interactive support-center map, **AI-powered camera descriptions with speech output**, and a chat assistant for safety-related questions.
 
-Built with `React`, `Vite`, `Leaflet` and hosted AI services. **My merged contribution:** clearer keyboard focus indicators and reduced-motion CSS support ([PR #1](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1)).
+Built with `React`, `Vite`, `Leaflet` and hosted AI services. The prototype also includes keyboard-focus styling and reduced-motion CSS support.
 
 *Prototype only — SOS delivery, support listings and AI guidance are not independently validated.*
 
-[View the team project](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [My merged PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [More details](./PROJECTS.md#guardianvoice--team-project)
+[View the team project](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [More details](./PROJECTS.md#guardianvoice--team-project)
 
 ---
 
-**[Titanic — Historical Record Linkage](https://github.com/aiaryskaliden/titanic-historical-record-linkage)** &nbsp;·&nbsp; *Personal data project*
+**[Titanic — Historical Record Linkage](https://github.com/aiaryskaliden/titanic-historical-record-linkage)** &nbsp;·&nbsp; *Data analysis project*
 
 A Python project exploring how records in two Titanic datasets can be matched and verified. It investigates dataset provenance, reproducibility and data leakage — not the accuracy of a trained survival-prediction model.
 
