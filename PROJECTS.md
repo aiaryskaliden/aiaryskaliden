@@ -34,7 +34,7 @@ I co-developed **GuardianVoice** with a teammate, working together to build its 
 
 `React` &nbsp; `Vite` &nbsp; `Leaflet` &nbsp; `JavaScript` &nbsp; `CSS` &nbsp; `Accessibility`
 
-Beyond the work we did together on the application, I implemented **keyboard-focus visibility and reduced-motion CSS styling**. This change is recorded in [PR #1](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1), which was merged into the main development branch.
+I worked on the UI and visual design, the map, and testing with my teammate. I also improved keyboard focus and reduced-motion styling in [PR #1](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1), which was merged into the main branch.
 
 **Project status:** The original repository describes GuardianVoice as a prototype. The application contains working frontend features, but its emergency workflows and AI navigation suggestions have not been independently validated. Support-center listings and map risk areas are preconfigured, and some AI functions require external services.
 
