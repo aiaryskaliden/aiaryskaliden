@@ -22,17 +22,23 @@ A selection of my personal and team projects. Here you'll find what we built, th
 
 ### GuardianVoice / Team project
 
-**Exploring more accessible interaction through voice and assisted interfaces.**
+**A voice-enabled personal-safety and accessibility companion — built as a team prototype for Kazakhstan.**
 
-I worked on **GuardianVoice** with a teammate. We built an accessibility and safety interface prototype using React and Vite, bringing together browser voice interaction, maps, camera-assisted scene descriptions, and an AI chat interface.
+I worked on **GuardianVoice** with a teammate. The React/Vite application explores several ways to make safety-related information and assisted interaction easier to access:
 
-`React` &nbsp; `Vite` &nbsp; `CSS` &nbsp; `Accessibility` &nbsp; `Teamwork`
+- **Voice-triggered SOS:** a customizable spoken phrase opens the SOS workflow. A countdown leads to an SMS-app handoff with an optional geolocation link; the prototype cannot guarantee delivery.
+- **Interactive help map:** a Leaflet/OpenStreetMap map shows the user's location (with permission), preconfigured support-center listings and optional marked risk areas.
+- **AI Vision:** with camera permission, the prototype sends snapshots to a hosted AI service and can read scene descriptions aloud.
+- **Safety-information assistant:** a chat interface for questions about personal safety, available support and relevant rights.
+- **Accessibility features:** a visual/vibration option and keyboard-focus improvements.
 
-**My contribution — merged:** I added CSS `:focus-visible` styling to improve the visibility of keyboard navigation and reduced-motion rules for common interactive elements. The change was merged into `master` through [PR #1 — Improve keyboard accessibility and reduced-motion support](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) on 15 October 2026.
+`React` &nbsp; `Vite` &nbsp; `Leaflet` &nbsp; `JavaScript` &nbsp; `CSS` &nbsp; `Accessibility`
 
-The current version is a **prototype**. It uses external services for some AI features and is not validated as an emergency-response system. The merged code is verifiable, but a formal accessibility audit has not been documented.
+**My confirmed contribution.** I added CSS `:focus-visible` rules for keyboard navigation and reduced-motion styling for interactive elements. [PR #1 — Improve keyboard accessibility and reduced-motion support](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) was merged into `master` on 15 October 2026.
 
-**Explore** &nbsp; [Source code](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [My merged PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [Project documentation](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
+**Project status:** This is a proof-of-concept, not a validated emergency-response or independent navigation system. Support-center details and risk zones are hardcoded and have not been independently verified; AI features depend on external services. The project has not undergone a formal accessibility or safety audit.
+
+**Explore** &nbsp; [Team repository](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [My merged PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [Project documentation](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
 
 ---
 
