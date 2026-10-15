@@ -17,16 +17,16 @@ A selection of my personal and team projects. Here you'll find what we built, th
 ---
 
 <a href="https://github.com/zoga228/infomatrix_2026_GuardianVoice">
-  <img src="./assets/guardianvoice-project.svg" width="100%" alt="GuardianVoice — team project, React and Vite prototype." />
+  <img src="./assets/guardianvoice-project.svg" width="100%" alt="GuardianVoice — team-built React application for personal safety and accessibility." />
 </a>
 
 ### GuardianVoice / Team project
 
-**A voice-enabled personal-safety and accessibility companion — built as a team prototype for Kazakhstan.**
+**A working React web application combining personal-safety tools and accessible interaction.**
 
-I worked on **GuardianVoice** with a teammate. The React/Vite application explores several ways to make safety-related information and assisted interaction easier to access:
+I co-developed **GuardianVoice** with a teammate, working together to build its user experience and bring several safety and accessibility features into one application. The implemented features include:
 
-- **Voice-triggered SOS:** a customizable spoken phrase opens the SOS workflow. A countdown leads to an SMS-app handoff with an optional geolocation link; the prototype cannot guarantee delivery.
+- **Voice-triggered SOS:** a customizable spoken phrase opens the SOS workflow. A countdown leads to an SMS-app handoff with an optional geolocation link; delivery is not automatically confirmed.
 - **Interactive help map:** a Leaflet/OpenStreetMap map shows the user's location (with permission), preconfigured support-center listings and optional marked risk areas.
 - **AI Vision:** with camera permission, the prototype sends snapshots to a hosted AI service and can read scene descriptions aloud.
 - **Safety-information assistant:** a chat interface for questions about personal safety, available support and relevant rights.
@@ -34,9 +34,11 @@ I worked on **GuardianVoice** with a teammate. The React/Vite application explor
 
 `React` &nbsp; `Vite` &nbsp; `Leaflet` &nbsp; `JavaScript` &nbsp; `CSS` &nbsp; `Accessibility`
 
-**Project status:** This is a proof-of-concept, not a validated emergency-response or independent navigation system. Support-center details and risk zones are hardcoded and have not been independently verified; AI features depend on external services. The project has not undergone a formal accessibility or safety audit.
+Beyond the work we did together on the application, I implemented **keyboard-focus visibility and reduced-motion CSS styling**. This change is recorded in [PR #1](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1), which was merged into the main development branch.
 
-**Explore** &nbsp; [Team repository](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Project documentation](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
+**Project status:** The original repository describes GuardianVoice as a prototype. The application contains working frontend features, but its emergency workflows and AI navigation suggestions have not been independently validated. Support-center listings and map risk areas are preconfigured, and some AI functions require external services.
+
+**Explore** &nbsp; [Team repository](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Merged accessibility PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [Project documentation](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
 
 ---
 
