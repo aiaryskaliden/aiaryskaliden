@@ -2,30 +2,28 @@
 
 # Projects
 
-A collection of individual and collaborative work. Each project includes the code, approach, context, and limitations.
+Personal work and projects I've worked on with teammates. I keep the code, approach and limitations easy to explore.
 
 <br>
 
 <a href="https://github.com/zoga228/infomatrix_2026_GuardianVoice">
-  <img src="./assets/guardianvoice-project.svg" width="100%" alt="GuardianVoice — collaborative accessibility and safety interface project." />
+  <img src="./assets/guardianvoice-project.svg" width="100%" alt="GuardianVoice — team project." />
 </a>
 
-### GuardianVoice / Collaborative project
+### GuardianVoice / Team project
 
-**How could a single interface make voice-driven and assisted interaction more accessible?**
+**How could voice-driven interaction make digital tools more accessible?**
 
-GuardianVoice is a React and Vite product prototype that brings together browser speech recognition, maps, camera-assisted scene descriptions, and an AI chat interface. These are prototype features, not a validated emergency-response system.
+I worked on GuardianVoice with a teammate. It's an accessibility and safety interface prototype built using React and Vite, combining voice-triggered features, mapping, camera-assisted scene descriptions and AI chat. It is a prototype, not a validated emergency-response system.
 
-`React` &nbsp; `Vite` &nbsp; `Accessibility` &nbsp; `Collaborative software`
+`React` &nbsp; `Vite` &nbsp; `Accessibility` &nbsp; `Teamwork`
 
-**My role.** Repository collaborator, with write access. The repository is owned by [@zoga228](https://github.com/zoga228). Specific development contributions should be attributed to their respective GitHub commits rather than implied by collaborator status alone.
-
-**Explore:** [Team repository](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Documentation](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
+**Explore:** [Project repository](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Readme](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
 
 ---
 
 <a href="https://github.com/aiaryskaliden/titanic-historical-record-linkage">
-  <img src="./assets/titanic-project.svg" width="100%" alt="Titanic — Historical Record Linkage. A Python and pandas data project. Open the repository." />
+  <img src="./assets/titanic-project.svg" width="100%" alt="Titanic — Historical Record Linkage. A Python and pandas data project." />
 </a>
 
 ### Titanic / Historical Record Linkage
@@ -38,7 +36,7 @@ This project connects Kaggle Titanic records to Vanderbilt's historical passenge
 
 **Recorded results.** The documented run linked all 891 training records and 418 test records, with no ambiguous or unmatched test records. These figures measure record matching; the project retrieves published historical outcomes and does not train a survival-prediction model.
 
-**My contribution.** Defined the approach, researched the historical data source, examined the verification results, and documented the Kaggle workflow.
+**My contribution.** Defined the approach, researched the historical data source, examined the verification results and documented the Kaggle workflow.
 
 **Explore:** [Source code](https://github.com/aiaryskaliden/titanic-historical-record-linkage) &nbsp; / &nbsp; [Kaggle notebook](https://www.kaggle.com/code/kalidenaiarys/titanic-historical-record-linkage-1309-verified) &nbsp; / &nbsp; [Method and verification](https://github.com/aiaryskaliden/titanic-historical-record-linkage#results-and-verification)
 
