@@ -26,9 +26,13 @@ I'm a student from Kazakhstan, interested in programming, mathematics and machin
 
 **[GuardianVoice](https://github.com/zoga228/infomatrix_2026_GuardianVoice)** &nbsp;·&nbsp; *Team project*
 
-I worked on **GuardianVoice** with a teammate. It's an accessibility-focused React and Vite prototype exploring voice interaction, maps, camera-assisted descriptions and an AI chat interface.
+I worked with a teammate on **GuardianVoice**, a personal-safety and accessibility prototype focused on Kazakhstan. It combines **voice-triggered SOS**, an SMS handoff with optional location details, an interactive support-center map, **AI-powered camera descriptions with speech output**, and a chat assistant for safety-related questions.
 
-[View the project](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [My merged PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [More details](./PROJECTS.md#guardianvoice--team-project)
+Built with `React`, `Vite`, `Leaflet` and hosted AI services. **My merged contribution:** clearer keyboard focus indicators and reduced-motion CSS support ([PR #1](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1)).
+
+*Prototype only — SOS delivery, support listings and AI guidance are not independently validated.*
+
+[View the team project](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [My merged PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [More details](./PROJECTS.md#guardianvoice--team-project)
 
 ---
 
