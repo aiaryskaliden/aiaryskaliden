@@ -28,7 +28,7 @@ I co-developed **GuardianVoice** with a teammate, working together to build its 
 
 - **Voice-triggered SOS:** a customizable spoken phrase opens the SOS workflow. A countdown leads to an SMS-app handoff with an optional geolocation link; delivery is not automatically confirmed.
 - **Interactive help map:** a Leaflet/OpenStreetMap map shows the user's location (with permission), preconfigured support-center listings and optional marked risk areas.
-- **AI Vision:** with camera permission, the prototype sends snapshots to a hosted AI service and can read scene descriptions aloud.
+- **AI Vision:** with camera permission, the application sends snapshots to a hosted AI service and can read scene descriptions aloud.
 - **Safety-information assistant:** a chat interface for questions about personal safety, available support and relevant rights.
 - **Accessibility features:** a visual/vibration option and keyboard-focus improvements.
 
