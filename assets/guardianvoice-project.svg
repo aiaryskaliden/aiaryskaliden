@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="210" viewBox="0 0 960 210" role="img" aria-labelledby="title desc">
+  <title id="title">GuardianVoice — collaborative project</title>
+  <desc id="desc">Accessibility and safety interface prototype. A collaborative repository with zoga228.</desc>
+  <rect x=".5" y=".5" width="959" height="209" rx="14" fill="#111820" stroke="#2b3642"/>
+  <path d="M36 37H923" stroke="#2b3642"/>
+  <path d="M36 37H103" stroke="#9fbad0" stroke-width="2"/>
+  <text x="36" y="66" fill="#91a8bd" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2.5">01  /  COLLABORATIVE PROJECT</text>
+  <text x="34" y="126" fill="#f0f3f6" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="600" letter-spacing="-1.2">GuardianVoice</text>
+  <text x="36" y="163" fill="#b0bdca" font-family="Arial,Helvetica,sans-serif" font-size="17">Accessibility-focused interface prototype</text>
+  <text x="36" y="187" fill="#7e91a3" font-family="Arial,Helvetica,sans-serif" font-size="12">React  /  Vite  /  Voice interaction  /  Maps</text>
+  <path d="M730 47V162" stroke="#2b3642"/>
+  <g fill="none" stroke="#a9c6dc" stroke-width="3" stroke-linecap="round">
+    <path d="M755 105v0M771 92v26M787 78v54M803 97v16M819 65v80M835 86v38M851 94v22M867 75v60M883 96v18M899 105v0"/>
+  </g>
+</svg>
