@@ -34,11 +34,9 @@ I worked on **GuardianVoice** with a teammate. The React/Vite application explor
 
 `React` &nbsp; `Vite` &nbsp; `Leaflet` &nbsp; `JavaScript` &nbsp; `CSS` &nbsp; `Accessibility`
 
-**My confirmed contribution.** I added CSS `:focus-visible` rules for keyboard navigation and reduced-motion styling for interactive elements. [PR #1 — Improve keyboard accessibility and reduced-motion support](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) was merged into `master` on 15 October 2026.
-
 **Project status:** This is a proof-of-concept, not a validated emergency-response or independent navigation system. Support-center details and risk zones are hardcoded and have not been independently verified; AI features depend on external services. The project has not undergone a formal accessibility or safety audit.
 
-**Explore** &nbsp; [Team repository](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [My merged PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [Project documentation](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
+**Explore** &nbsp; [Team repository](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Project documentation](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
 
 ---
 
@@ -55,8 +53,6 @@ A reproducible Python project matching Kaggle Titanic passenger records with the
 `Python` &nbsp; `pandas` &nbsp; `Record linkage` &nbsp; `Data validation`
 
 **Recorded checks:** 891 training records and 418 test records linked, with no unmatched or ambiguous identities in the documented run. These are **record matching results**, not machine-learning accuracy: the approach uses published historical outcomes and does not train a predictive model.
-
-**My work:** explored the historical data source, developed the matching approach, reviewed the checks, and documented the workflow.
 
 **Explore** &nbsp; [Source and methods](https://github.com/aiaryskaliden/titanic-historical-record-linkage) &nbsp; / &nbsp; [Kaggle notebook](https://www.kaggle.com/code/kalidenaiarys/titanic-historical-record-linkage-1309-verified) &nbsp; / &nbsp; [Verification details](https://github.com/aiaryskaliden/titanic-historical-record-linkage#results-and-verification)
 
