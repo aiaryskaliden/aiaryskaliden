@@ -26,11 +26,13 @@ A selection of my personal and team projects. Here you'll find what we built, th
 
 I worked on **GuardianVoice** with a teammate. We built an accessibility and safety interface prototype using React and Vite, bringing together browser voice interaction, maps, camera-assisted scene descriptions, and an AI chat interface.
 
-`React` &nbsp; `Vite` &nbsp; `Voice interaction` &nbsp; `Accessibility` &nbsp; `Teamwork`
+`React` &nbsp; `Vite` &nbsp; `CSS` &nbsp; `Accessibility` &nbsp; `Teamwork`
 
-The current version is a **prototype**. It uses external services for some AI features and is not validated as an emergency-response system.
+**My contribution — merged:** I added CSS `:focus-visible` styling to improve the visibility of keyboard navigation and reduced-motion rules for common interactive elements. The change was merged into `master` through [PR #1 — Improve keyboard accessibility and reduced-motion support](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) on 15 October 2026.
 
-**Explore** &nbsp; [Source code](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Project documentation](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
+The current version is a **prototype**. It uses external services for some AI features and is not validated as an emergency-response system. The merged code is verifiable, but a formal accessibility audit has not been documented.
+
+**Explore** &nbsp; [Source code](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [My merged PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [Project documentation](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
 
 ---
 
