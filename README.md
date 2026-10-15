@@ -28,7 +28,7 @@ I'm a student from Kazakhstan, interested in programming, mathematics and machin
 
 I co-developed **GuardianVoice** with a teammate, building a working React web application focused on personal safety and accessibility in Kazakhstan. We brought together **voice-triggered SOS**, location sharing through the phone's SMS app, an interactive map of support resources, **AI-powered camera descriptions with speech output**, and a safety-information chat assistant.
 
-My work includes the collaborative development of the application and a separately documented accessibility update: **visible keyboard focus states and reduced-motion CSS support**, merged through [PR #1](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1).
+I worked on the interface design, the map, and testing alongside my teammate. I also added keyboard focus and reduced-motion styles in [PR #1](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1).
 
 `React` &nbsp; `Vite` &nbsp; `Leaflet` &nbsp; `JavaScript` &nbsp; `CSS`
 
