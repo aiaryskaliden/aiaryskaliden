@@ -28,7 +28,9 @@ I'm a student from Kazakhstan, interested in programming, mathematics and machin
 
 I worked on **GuardianVoice** with a teammate. It's an accessibility-focused React and Vite prototype exploring voice interaction, maps, camera-assisted descriptions and an AI chat interface.
 
-[View the project](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [More details](./PROJECTS.md#guardianvoice--team-project)
+**My merged contribution:** improved keyboard accessibility by adding visible focus outlines and CSS support for reduced-motion preferences. My [Pull Request #1](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) was merged into the project's `master` branch.
+
+[View the project](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [My merged PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [More details](./PROJECTS.md#guardianvoice--team-project)
 
 ---
 
