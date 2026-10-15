@@ -26,13 +26,15 @@ I'm a student from Kazakhstan, interested in programming, mathematics and machin
 
 **[GuardianVoice](https://github.com/zoga228/infomatrix_2026_GuardianVoice)** &nbsp;·&nbsp; *Team project*
 
-I worked with a teammate on **GuardianVoice**, a personal-safety and accessibility prototype focused on Kazakhstan. It combines **voice-triggered SOS**, an SMS handoff with optional location details, an interactive support-center map, **AI-powered camera descriptions with speech output**, and a chat assistant for safety-related questions.
+I co-developed **GuardianVoice** with a teammate, building a working React web application focused on personal safety and accessibility in Kazakhstan. We brought together **voice-triggered SOS**, location sharing through the phone's SMS app, an interactive map of support resources, **AI-powered camera descriptions with speech output**, and a safety-information chat assistant.
 
-Built with `React`, `Vite`, `Leaflet` and hosted AI services. The prototype also includes keyboard-focus styling and reduced-motion CSS support.
+My work includes the collaborative development of the application and a separately documented accessibility update: **visible keyboard focus states and reduced-motion CSS support**, merged through [PR #1](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1).
 
-*Prototype only — SOS delivery, support listings and AI guidance are not independently validated.*
+`React` &nbsp; `Vite` &nbsp; `Leaflet` &nbsp; `JavaScript` &nbsp; `CSS`
 
-[View the team project](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [More details](./PROJECTS.md#guardianvoice--team-project)
+*The project's original README classifies it as a prototype. Safety-related functions have not been independently validated.*
+
+[View GuardianVoice](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Merged accessibility PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [More details](./PROJECTS.md#guardianvoice--team-project)
 
 ---
 
