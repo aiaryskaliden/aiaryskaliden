@@ -5,6 +5,8 @@
 <p align="center">
   <a href="#selected-projects"><b>Explore projects</b></a>
   &nbsp; · &nbsp;
+  <a href="./PROJECTS.md"><b>Projects</b></a>
+  &nbsp; · &nbsp;
   <a href="https://www.kaggle.com/kalidenaiarys"><b>Kaggle</b></a>
   &nbsp; · &nbsp;
   <a href="mailto:aiariskaliden@gmail.com"><b>Contact</b></a>
