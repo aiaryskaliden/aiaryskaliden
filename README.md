@@ -16,7 +16,7 @@
 
 I'm a student from Kazakhstan, interested in programming, mathematics and machine learning. I like turning ideas into practical projects, exploring data, and building things together with other developers.
 
-**Tools I use** &nbsp; `Python` &nbsp; `pandas` &nbsp; `scikit-learn`
+**Tools I use** &nbsp; `Python` &nbsp; `pandas` &nbsp; `scikit-learn` &nbsp; `JavaScript` &nbsp; `React`
 
 ### Selected projects
 
@@ -35,6 +35,22 @@ I worked on the interface design, the map, and testing alongside my teammate. I 
 *The project's original README classifies it as a prototype. Safety-related functions have not been independently validated.*
 
 [View GuardianVoice](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Merged accessibility PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [More details](./PROJECTS.md#guardianvoice--team-project)
+
+---
+
+<a href="./PROJECTS.md#gemma-4-developer-agent--kaggle-competition">
+  <img src="./assets/gemma4-project.svg" width="100%" alt="Gemma 4 Developer Agent — Kaggle competition submission with a public score of 0.13." />
+</a>
+
+**Gemma 4 Developer Agent** &nbsp;·&nbsp; *Kaggle competition*
+
+Built a single-agent code-repair submission for the Google Gemma 4 Developer Agent Competition. The agent is configured to inspect repository issues, prepare focused patches, and verify changes. **Recorded public score: 0.13**.
+
+`Python` &nbsp; `Gemma 4` &nbsp; `LLM Agents` &nbsp; `Agent Configuration`
+
+[Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent) &nbsp; / &nbsp; [Project details](./PROJECTS.md#gemma-4-developer-agent--kaggle-competition)
+
+*Source repository is private while the competition's code-sharing rules apply.*
 
 ---
 

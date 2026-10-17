@@ -7,6 +7,8 @@
   &nbsp; / &nbsp;
   <a href="#guardianvoice--team-project"><b>GuardianVoice</b></a>
   &nbsp; / &nbsp;
+  <a href="#gemma-4-developer-agent--kaggle-competition"><b>Gemma 4 Agent</b></a>
+  &nbsp; / &nbsp;
   <a href="#titanic--historical-record-linkage"><b>Titanic</b></a>
   &nbsp; / &nbsp;
   <a href="https://www.kaggle.com/kalidenaiarys"><b>Kaggle</b></a>
@@ -39,6 +41,26 @@ I worked on the UI and visual design, the map, and testing with my teammate. I a
 **Project status:** The original repository describes GuardianVoice as a prototype. The application contains working frontend features, but its emergency workflows and AI navigation suggestions have not been independently validated. Support-center listings and map risk areas are preconfigured, and some AI functions require external services.
 
 **Explore** &nbsp; [Team repository](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Merged accessibility PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [Project documentation](https://github.com/zoga228/infomatrix_2026_GuardianVoice#readme)
+
+---
+
+<a href="./README.md">
+  <img src="./assets/gemma4-project.svg" width="100%" alt="Gemma 4 Developer Agent Kaggle project — recorded public score 0.13." />
+</a>
+
+### Gemma 4 Developer Agent / Kaggle competition
+
+**A focused coding-agent submission using the pretrained Gemma 4 model.**
+
+I built and submitted an agent configuration for the [Google — The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent). Its intended workflow is straightforward: understand a repository issue, find the relevant code, produce a small patch, verify the changes, and hand off the result.
+
+The submission was **accepted by Kaggle** and recorded a **public score of 0.13**. My project work centered on the agent's instructions, configuration, and reproducible submission packaging — not training or fine-tuning a model.
+
+`Python` &nbsp; `Gemma 4` &nbsp; `LLM agents` &nbsp; `Prompt engineering`
+
+The source code and executed Notebook are stored in a **private competition repository** while code-sharing restrictions apply. The public score is based on a screenshot of the Kaggle submissions page; a final private leaderboard score has not been confirmed.
+
+**Explore** &nbsp; [Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent) &nbsp; / &nbsp; [Kaggle profile](https://www.kaggle.com/kalidenaiarys)
 
 ---
 

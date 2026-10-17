@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="215" viewBox="0 0 960 215" role="img" aria-labelledby="title desc">
+<title id="title">Gemma 4 Developer Agent — Kaggle competition</title>
+<desc id="desc">AI coding agent project, with public score 0.13, using a single-agent configuration.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1728"/><stop offset="1" stop-color="#17102c"/></linearGradient><radialGradient id="glow"><stop stop-color="#6950d6" stop-opacity=".42"/><stop offset="1" stop-color="#6950d6" stop-opacity="0"/></radialGradient><linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#518fff"/><stop offset="1" stop-color="#a88dff"/></linearGradient></defs>
+<rect x=".5" y=".5" width="959" height="214" rx="14" fill="url(#bg)" stroke="#333552"/>
+<ellipse cx="793" cy="99" rx="190" ry="147" fill="url(#glow)"/>
+<path d="M35 37 H924" stroke="#28314b"/><path d="M35 37 H110" stroke="url(#stroke)" stroke-width="2"/>
+<text x="35" y="64" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2.7" fill="#b9aaff">02  /  AI AGENTS</text>
+<text x="34" y="123" font-family="Arial,Helvetica,sans-serif" font-size="41" font-weight="600" letter-spacing="-1" fill="#f5f4fb">Gemma 4 Developer Agent</text>
+<text x="36" y="156" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#aebbd1">Repository issue resolution with a single agent</text>
+<text x="36" y="189" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#91a2c6">Python  /  Gemma 4  /  Kaggle competition</text>
+<rect x="749" y="152" width="174" height="39" rx="9" fill="#1e284a" stroke="#5a5c9b"/>
+<text x="836" y="177" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" text-anchor="middle" fill="#d4caff">PUBLIC  0.13</text>
+</svg>
