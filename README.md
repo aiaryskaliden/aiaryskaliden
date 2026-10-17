@@ -39,7 +39,7 @@ I worked on the interface design, the map, and testing alongside my teammate. I 
 ---
 
 <a href="https://www.kaggle.com/competitions/gemma-4-developer-agent">
-  <img src="./assets/gemma4-project.svg" width="100%" alt="Gemma 4 Developer Agent — a single-agent coding workflow developed for a Kaggle competition." />
+  <img src="./assets/gemma4-project-clean.svg" width="100%" alt="Gemma 4 Developer Agent — a single-agent coding workflow developed for a Kaggle competition." />
 </a>
 
 **Gemma 4 Developer Agent** &nbsp;·&nbsp; *Kaggle competition*
@@ -63,7 +63,7 @@ A Python project exploring how records in two Titanic datasets can be matched an
 ### More work
 
 <a href="./PROJECTS.md">
-  <img src="./assets/projects-collection.svg" width="100%" alt="Explore Projects — browse the full project portfolio." />
+  <img src="./assets/projects-explore-clean.svg" width="100%" alt="Explore Projects — browse the full project portfolio." />
 </a>
 
 <p align="center">
