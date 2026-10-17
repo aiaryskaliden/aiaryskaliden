@@ -45,7 +45,7 @@ I worked on the UI and visual design, the map, and testing with my teammate. I a
 ---
 
 <a href="https://www.kaggle.com/competitions/gemma-4-developer-agent">
-  <img src="./assets/gemma4-project.svg" width="100%" alt="Gemma 4 Developer Agent — a single-agent coding workflow." />
+  <img src="./assets/gemma4-project-clean.svg" width="100%" alt="Gemma 4 Developer Agent — a single-agent coding workflow." />
 </a>
 
 ### Gemma 4 Developer Agent / Kaggle competition
