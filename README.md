@@ -5,8 +5,6 @@
 <p align="center">
   <a href="#selected-projects"><b>Explore projects</b></a>
   &nbsp; · &nbsp;
-  <a href="./PROJECTS.md"><b>Portfolio</b></a>
-  &nbsp; · &nbsp;
   <a href="https://www.kaggle.com/kalidenaiarys"><b>Kaggle</b></a>
   &nbsp; · &nbsp;
   <a href="mailto:aiariskaliden@gmail.com"><b>Contact</b></a>
@@ -34,21 +32,21 @@ I worked on the interface design, the map, and testing alongside my teammate. I 
 
 *The project's original README classifies it as a prototype. Safety-related functions have not been independently validated.*
 
-[View GuardianVoice](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Merged accessibility PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1) &nbsp; / &nbsp; [More details](./PROJECTS.md#guardianvoice--team-project)
+[View GuardianVoice](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Merged accessibility PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1)
 
 ---
 
-<a href="./PROJECTS.md#gemma-4-developer-agent--kaggle-competition">
-  <img src="./assets/gemma4-project.svg" width="100%" alt="Gemma 4 Developer Agent — Kaggle competition submission with a public score of 0.13." />
+<a href="https://www.kaggle.com/competitions/gemma-4-developer-agent">
+  <img src="./assets/gemma4-project.svg" width="100%" alt="Gemma 4 Developer Agent — a single-agent coding workflow developed for a Kaggle competition." />
 </a>
 
 **Gemma 4 Developer Agent** &nbsp;·&nbsp; *Kaggle competition*
 
-Built a single-agent code-repair submission for the Google Gemma 4 Developer Agent Competition. The agent is configured to inspect repository issues, prepare focused patches, and verify changes. **Recorded public score: 0.13**.
+Built a single-agent coding workflow for the Google Gemma 4 Developer Agent Competition. The agent is configured to inspect repository issues, prepare focused patches, and verify changes before submission.
 
 `Python` &nbsp; `Gemma 4` &nbsp; `LLM Agents` &nbsp; `Agent Configuration`
 
-[Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent) &nbsp; / &nbsp; [Project details](./PROJECTS.md#gemma-4-developer-agent--kaggle-competition)
+[Kaggle competition](https://www.kaggle.com/competitions/gemma-4-developer-agent)
 
 *Source repository is private while the competition's code-sharing rules apply.*
 
@@ -60,20 +58,12 @@ A Python project exploring how records in two Titanic datasets can be matched an
 
 [Source and methodology](https://github.com/aiaryskaliden/titanic-historical-record-linkage) &nbsp; / &nbsp; [Kaggle notebook](https://www.kaggle.com/code/kalidenaiarys/titanic-historical-record-linkage-1309-verified)
 
-### More work
-
-<a href="./PROJECTS.md">
-  <img src="./assets/projects-collection.svg" width="100%" alt="Browse Aiarys Kaliden's full project collection." />
-</a>
+---
 
 <p align="center">
-  <a href="./PROJECTS.md">All projects</a>
-  &nbsp; / &nbsp;
   <a href="https://github.com/aiaryskaliden?tab=repositories">Repositories</a>
-  &nbsp; / &nbsp;
+  &nbsp; · &nbsp;
   <a href="https://www.kaggle.com/kalidenaiarys">Kaggle</a>
 </p>
-
----
 
 <sub>Aiarys Kaliden · Building, learning, documenting.</sub>

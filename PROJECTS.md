@@ -45,7 +45,7 @@ I worked on the UI and visual design, the map, and testing with my teammate. I a
 ---
 
 <a href="https://www.kaggle.com/competitions/gemma-4-developer-agent">
-  <img src="./assets/gemma4-project.svg" width="100%" alt="Gemma 4 Developer Agent Kaggle project — recorded public score 0.13." />
+  <img src="./assets/gemma4-project.svg" width="100%" alt="Gemma 4 Developer Agent — a single-agent coding workflow." />
 </a>
 
 ### Gemma 4 Developer Agent / Kaggle competition
@@ -54,11 +54,11 @@ I worked on the UI and visual design, the map, and testing with my teammate. I a
 
 I built and submitted an agent configuration for the [Google — The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent). Its intended workflow is straightforward: understand a repository issue, find the relevant code, produce a small patch, verify the changes, and hand off the result.
 
-The submission was **accepted by Kaggle** and recorded a **public score of 0.13**. My project work centered on the agent's instructions, configuration, and reproducible submission packaging — not training or fine-tuning a model.
+I designed the agent's instructions and configuration, and built a reproducible submission package. The submission was accepted by Kaggle. This work focuses on agent orchestration rather than training or fine-tuning a model.
 
 `Python` &nbsp; `Gemma 4` &nbsp; `LLM agents` &nbsp; `Prompt engineering`
 
-The source code and executed Notebook are stored in a **private competition repository** while code-sharing restrictions apply. The public score is based on a screenshot of the Kaggle submissions page; a final private leaderboard score has not been confirmed.
+The code and executed Notebook remain in a **private repository** while the competition's code-sharing restrictions apply.
 
 **Explore** &nbsp; [Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent) &nbsp; / &nbsp; [Kaggle profile](https://www.kaggle.com/kalidenaiarys)
 
