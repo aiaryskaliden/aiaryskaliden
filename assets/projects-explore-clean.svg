@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-labelledby="title desc">
+<title id="title">Explore Projects — Aiarys Kaliden</title>
+<desc id="desc">Explore the GuardianVoice collaborative project and Titanic data project.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b101c"/><stop offset="1" stop-color="#101428"/></linearGradient><radialGradient id="h"><stop stop-color="#8a6cff" stop-opacity=".4"/><stop offset="1" stop-color="#8a6cff" stop-opacity="0"/></radialGradient></defs>
+<rect x=".5" y=".5" width="959" height="189" rx="14" fill="url(#bg)" stroke="#343654"/>
+<ellipse cx="744" cy="100" rx="205" ry="146" fill="url(#h)"/>
+<path d="M35 37H925" stroke="#283148"/><path d="M35 37H97" stroke="#a090ff" stroke-width="2"/>
+<text x="35" y="62" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2.7" fill="#bbaaff">PORTFOLIO / 2026</text>
+<text x="33" y="119" font-family="Arial,Helvetica,sans-serif" font-size="47" letter-spacing="-1" font-weight="600" fill="#f4f3fa">Explore Projects.</text>
+<text x="36" y="154" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#abb8d3">Team projects, data analysis, and documented work.</text>
+</svg>
