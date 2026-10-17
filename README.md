@@ -60,12 +60,20 @@ A Python project exploring how records in two Titanic datasets can be matched an
 
 [Source and methodology](https://github.com/aiaryskaliden/titanic-historical-record-linkage) &nbsp; / &nbsp; [Kaggle notebook](https://www.kaggle.com/code/kalidenaiarys/titanic-historical-record-linkage-1309-verified)
 
----
+### More work
+
+<a href="./PROJECTS.md">
+  <img src="./assets/projects-collection.svg" width="100%" alt="Explore Projects — browse the full project portfolio." />
+</a>
 
 <p align="center">
+  <a href="./PROJECTS.md">All projects</a>
+  &nbsp; / &nbsp;
   <a href="https://github.com/aiaryskaliden?tab=repositories">Repositories</a>
-  &nbsp; · &nbsp;
+  &nbsp; / &nbsp;
   <a href="https://www.kaggle.com/kalidenaiarys">Kaggle</a>
 </p>
+
+---
 
 <sub>Aiarys Kaliden · Building, learning, documenting.</sub>
