@@ -9,6 +9,4 @@
 <text x="34" y="123" font-family="Arial,Helvetica,sans-serif" font-size="41" font-weight="600" letter-spacing="-1" fill="#f5f4fb">Gemma 4 Developer Agent</text>
 <text x="36" y="156" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#aebbd1">Repository issue resolution with a single agent</text>
 <text x="36" y="189" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#91a2c6">Python  /  Gemma 4  /  Kaggle competition</text>
-<rect x="749" y="152" width="174" height="39" rx="9" fill="#1e284a" stroke="#5a5c9b"/>
-<text x="836" y="177" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="13" text-anchor="middle" fill="#d4caff">ISSUE → PATCH</text>
 </svg>
