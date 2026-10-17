@@ -44,7 +44,7 @@ I worked on the UI and visual design, the map, and testing with my teammate. I a
 
 ---
 
-<a href="./README.md">
+<a href="https://www.kaggle.com/competitions/gemma-4-developer-agent">
   <img src="./assets/gemma4-project.svg" width="100%" alt="Gemma 4 Developer Agent Kaggle project — recorded public score 0.13." />
 </a>
 
