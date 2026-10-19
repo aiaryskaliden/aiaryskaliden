@@ -21,14 +21,14 @@ I'm a student from Kazakhstan, interested in programming, mathematics and machin
 ### Selected projects
 
 <a href="https://github.com/aiaryskaliden/Spaceship-Titanic67">
-  <img src="./assets/spaceship-titanic-project.svg" width="100%" alt="Spaceship Titanic — Kaggle classification ensemble, public score 0.82534 and rank 15 on October 19, 2026." />
+  <img src="./assets/spaceship-titanic-project.jpg" width="100%" alt="Spaceship Titanic — a cinematic space liner representing the Kaggle classification project." />
 </a>
 
 **[Spaceship Titanic — Classification Ensemble](https://github.com/aiaryskaliden/Spaceship-Titanic67)** &nbsp;·&nbsp; *Kaggle competition*
 
 I explored feature engineering, group-aware validation and ensemble learning for Kaggle's Spaceship Titanic classification challenge. The workflow combines CatBoost and LightGBM experiments with stacking over previously published TabPFN predictions.
 
-**Public score: 0.82534** &nbsp;·&nbsp; **#15 on the leaderboard, October 19, 2026** *(dated snapshot)*
+Recorded Kaggle public accuracy: **0.82534** (October 2026).
 
 `Python` &nbsp; `pandas` &nbsp; `CatBoost` &nbsp; `LightGBM` &nbsp; `scikit-learn`
 
@@ -39,7 +39,7 @@ I explored feature engineering, group-aware validation and ensemble learning for
 ---
 
 <a href="https://github.com/zoga228/infomatrix_2026_GuardianVoice">
-  <img src="./assets/guardianvoice-project.svg" width="100%" alt="GuardianVoice — collaborative accessibility and safety interface project." />
+  <img src="./assets/guardianvoice-project.jpg" width="100%" alt="GuardianVoice — collaborative accessibility and safety interface project." />
 </a>
 
 **[GuardianVoice](https://github.com/zoga228/infomatrix_2026_GuardianVoice)** &nbsp;·&nbsp; *Team project*
@@ -57,7 +57,7 @@ I worked on the interface design, the map, and testing alongside my teammate. I 
 ---
 
 <a href="https://www.kaggle.com/competitions/gemma-4-developer-agent">
-  <img src="./assets/gemma4-project-clean.svg" width="100%" alt="Gemma 4 Developer Agent — a single-agent coding workflow developed for a Kaggle competition." />
+  <img src="./assets/gemma4-project-clean.jpg" width="100%" alt="Gemma 4 Developer Agent — a single-agent coding workflow developed for a Kaggle competition." />
 </a>
 
 **Gemma 4 Developer Agent** &nbsp;·&nbsp; *Kaggle competition*
@@ -71,6 +71,10 @@ Built a single-agent coding workflow for the Google Gemma 4 Developer Agent Comp
 *Source repository is private while the competition's code-sharing rules apply.*
 
 ---
+
+<a href="https://github.com/aiaryskaliden/titanic-historical-record-linkage">
+  <img src="./assets/titanic-project.jpg" width="100%" alt="Titanic historical record linkage — an ocean liner crossing the sea at dusk." />
+</a>
 
 **[Titanic — Historical Record Linkage](https://github.com/aiaryskaliden/titanic-historical-record-linkage)** &nbsp;·&nbsp; *Data analysis project*
 

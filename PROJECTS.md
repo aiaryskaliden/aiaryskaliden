@@ -21,7 +21,7 @@ A selection of my personal and team projects. Here you'll find what we built, th
 ---
 
 <a href="https://github.com/aiaryskaliden/Spaceship-Titanic67">
-  <img src="./assets/spaceship-titanic-project.svg" width="100%" alt="Spaceship Titanic Kaggle ensemble — 0.82534 score and rank 15 on October 19, 2026." />
+  <img src="./assets/spaceship-titanic-project.jpg" width="100%" alt="Spaceship Titanic — cinematic spacecraft artwork for a machine-learning project." />
 </a>
 
 ### Spaceship Titanic / Machine Learning
@@ -43,11 +43,10 @@ The workflow brings together:
 | Recorded result | Value |
 | --- | ---: |
 | Kaggle public accuracy | **0.82534** |
-| Leaderboard position on October 19, 2026 | **#15** |
 | Selected development out-of-fold accuracy | 0.83216 |
 | Test-set predictions | 4,277 |
 
-The leaderboard position is a **dated snapshot**, not a permanent rank. The out-of-fold score is a development estimate rather than a held-out Kaggle result. The upstream TabPFN reference reported a public score of **0.82604**, so these extensions do not represent an improvement over that original Kaggle score.
+The out-of-fold score is a development estimate rather than a held-out Kaggle result. The upstream TabPFN reference reported a public score of **0.82604**, so these extensions do not represent an improvement over that original Kaggle score.
 
 **Explore** &nbsp; [Source code and notebook](https://github.com/aiaryskaliden/Spaceship-Titanic67) &nbsp; / &nbsp; [Recorded result](https://github.com/aiaryskaliden/Spaceship-Titanic67/blob/main/images/leaderboard_2026-10-19.png) &nbsp; / &nbsp; [Method and attribution](https://github.com/aiaryskaliden/Spaceship-Titanic67/blob/main/ATTRIBUTION.md) &nbsp; / &nbsp; [Competition](https://www.kaggle.com/competitions/spaceship-titanic)
 
@@ -56,7 +55,7 @@ The leaderboard position is a **dated snapshot**, not a permanent rank. The out-
 ---
 
 <a href="https://github.com/zoga228/infomatrix_2026_GuardianVoice">
-  <img src="./assets/guardianvoice-project.svg" width="100%" alt="GuardianVoice — team-built React application for personal safety and accessibility." />
+  <img src="./assets/guardianvoice-project.jpg" width="100%" alt="GuardianVoice — team-built React application for personal safety and accessibility." />
 </a>
 
 ### GuardianVoice / Team project
@@ -82,7 +81,7 @@ I worked on the UI and visual design, the map, and testing with my teammate. I a
 ---
 
 <a href="https://www.kaggle.com/competitions/gemma-4-developer-agent">
-  <img src="./assets/gemma4-project-clean.svg" width="100%" alt="Gemma 4 Developer Agent — a single-agent coding workflow." />
+  <img src="./assets/gemma4-project-clean.jpg" width="100%" alt="Gemma 4 Developer Agent — a single-agent coding workflow." />
 </a>
 
 ### Gemma 4 Developer Agent / Kaggle competition
@@ -102,7 +101,7 @@ The code and executed Notebook remain in a **private repository** while the comp
 ---
 
 <a href="https://github.com/aiaryskaliden/titanic-historical-record-linkage">
-  <img src="./assets/titanic-project.svg" width="100%" alt="Titanic — Historical Record Linkage, Python and pandas data project." />
+  <img src="./assets/titanic-project.jpg" width="100%" alt="Titanic — Historical Record Linkage, Python and pandas data project." />
 </a>
 
 ### Titanic / Historical Record Linkage
