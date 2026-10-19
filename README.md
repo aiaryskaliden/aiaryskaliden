@@ -20,6 +20,24 @@ I'm a student from Kazakhstan, interested in programming, mathematics and machin
 
 ### Selected projects
 
+<a href="https://github.com/aiaryskaliden/Spaceship-Titanic67">
+  <img src="./assets/spaceship-titanic-project.svg" width="100%" alt="Spaceship Titanic — Kaggle classification ensemble, public score 0.82534 and rank 15 on October 19, 2026." />
+</a>
+
+**[Spaceship Titanic — Classification Ensemble](https://github.com/aiaryskaliden/Spaceship-Titanic67)** &nbsp;·&nbsp; *Kaggle competition*
+
+I explored feature engineering, group-aware validation and ensemble learning for Kaggle's Spaceship Titanic classification challenge. The workflow combines CatBoost and LightGBM experiments with stacking over previously published TabPFN predictions.
+
+**Public score: 0.82534** &nbsp;·&nbsp; **#15 on the leaderboard, October 19, 2026** *(dated snapshot)*
+
+`Python` &nbsp; `pandas` &nbsp; `CatBoost` &nbsp; `LightGBM` &nbsp; `scikit-learn`
+
+[Project and notebook](https://github.com/aiaryskaliden/Spaceship-Titanic67) &nbsp; / &nbsp; [Competition](https://www.kaggle.com/competitions/spaceship-titanic) &nbsp; / &nbsp; [Methods and attribution](https://github.com/aiaryskaliden/Spaceship-Titanic67/blob/main/ATTRIBUTION.md)
+
+*Project repository is currently private; its source links will work for visitors after publication.*
+
+---
+
 <a href="https://github.com/zoga228/infomatrix_2026_GuardianVoice">
   <img src="./assets/guardianvoice-project.svg" width="100%" alt="GuardianVoice — collaborative accessibility and safety interface project." />
 </a>
