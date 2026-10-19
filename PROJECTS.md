@@ -5,6 +5,8 @@
 <p align="center">
   <a href="https://github.com/aiaryskaliden"><b>← Back to profile</b></a>
   &nbsp; / &nbsp;
+  <a href="#spaceship-titanic--machine-learning"><b>Spaceship Titanic</b></a>
+  &nbsp; / &nbsp;
   <a href="#guardianvoice--team-project"><b>GuardianVoice</b></a>
   &nbsp; / &nbsp;
   <a href="#gemma-4-developer-agent--kaggle-competition"><b>Gemma 4 Agent</b></a>
@@ -15,6 +17,41 @@
 </p>
 
 A selection of my personal and team projects. Here you'll find what we built, the tools behind it, and what the results mean.
+
+---
+
+<a href="https://github.com/aiaryskaliden/Spaceship-Titanic67">
+  <img src="./assets/spaceship-titanic-project.svg" width="100%" alt="Spaceship Titanic Kaggle ensemble — 0.82534 score and rank 15 on October 19, 2026." />
+</a>
+
+### Spaceship Titanic / Machine Learning
+
+**Experimenting with tabular classification, feature engineering, and stacked ensembles.**
+
+This project tackles the [Kaggle Spaceship Titanic competition](https://www.kaggle.com/competitions/spaceship-titanic), where the goal is to predict whether each passenger was transported to another dimension using the passenger manifest.
+
+The workflow brings together:
+
+- **Feature engineering:** passenger groups, cabin information, spending, age and related signals.
+- **Group-aware validation:** comparing out-of-fold estimates while reducing passenger-group leakage.
+- **Tree models:** additional CatBoost and LightGBM experiments.
+- **Ensemble selection:** logistic and spline stacking, combining the resulting probability predictions into a final submission.
+- **Published baseline inputs:** four TabPFN model prediction series reused from [TaeyanG4's experiments](https://github.com/TaeyanG4/kaggle-spaceship-titanic-experiments). I did not train those four upstream models.
+
+`Python` &nbsp; `pandas` &nbsp; `scikit-learn` &nbsp; `CatBoost` &nbsp; `LightGBM` &nbsp; `Ensembling`
+
+| Recorded result | Value |
+| --- | ---: |
+| Kaggle public accuracy | **0.82534** |
+| Leaderboard position on October 19, 2026 | **#15** |
+| Selected development out-of-fold accuracy | 0.83216 |
+| Test-set predictions | 4,277 |
+
+The leaderboard position is a **dated snapshot**, not a permanent rank. The out-of-fold score is a development estimate rather than a held-out Kaggle result. The upstream TabPFN reference reported a public score of **0.82604**, so these extensions do not represent an improvement over that original Kaggle score.
+
+**Explore** &nbsp; [Source code and notebook](https://github.com/aiaryskaliden/Spaceship-Titanic67) &nbsp; / &nbsp; [Recorded result](https://github.com/aiaryskaliden/Spaceship-Titanic67/blob/main/images/leaderboard_2026-10-19.png) &nbsp; / &nbsp; [Method and attribution](https://github.com/aiaryskaliden/Spaceship-Titanic67/blob/main/ATTRIBUTION.md) &nbsp; / &nbsp; [Competition](https://www.kaggle.com/competitions/spaceship-titanic)
+
+*The source repository is currently private. Public readers will be able to open the GitHub links after it is made public.*
 
 ---
 
