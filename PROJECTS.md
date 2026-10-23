@@ -1,10 +1,14 @@
-# Projects
+<p align="center">
+  <img src="./assets/projects-header-minimal.svg" width="100%" alt="Projects — minimal dark developer portfolio header." />
+</p>
 
 [Profile](https://github.com/aiaryskaliden) · [AidMap](#aidmap--university-discovery--financial-aid) · [Spaceship Titanic](#spaceship-titanic--machine-learning) · [GuardianVoice](#guardianvoice--team-project) · [Kaggle](https://www.kaggle.com/kalidenaiarys)
 
 A selection of my personal and team projects. Here you'll find what we built, the tools behind it, and what the results mean.
 
 ---
+
+<a href="https://aidmap-aiaryskaliden.vercel.app/"><img src="./assets/aidmap-minimal.svg" width="100%" alt="AidMap project" /></a>
 
 ### AidMap / University discovery & financial aid
 
@@ -19,6 +23,8 @@ AidMap is designed to help international applicants research universities, compa
 *The Aidmap GitHub repository currently contains documentation, not the deployed application's source. Admission and funding details should be verified using official university sources.*
 
 ---
+
+<a href="#spaceship-titanic--machine-learning"><img src="./assets/spaceship-minimal.svg" width="100%" alt="Spaceship Titanic project" /></a>
 
 ### Spaceship Titanic / Machine Learning
 
@@ -50,6 +56,8 @@ The out-of-fold score is a development estimate rather than a held-out Kaggle re
 
 ---
 
+<a href="https://github.com/zoga228/infomatrix_2026_GuardianVoice"><img src="./assets/guardianvoice-minimal.svg" width="100%" alt="GuardianVoice project" /></a>
+
 ### GuardianVoice / Team project
 
 **A working React web application combining personal-safety tools and accessible interaction.**
@@ -72,6 +80,8 @@ I worked on the UI and visual design, the map, and testing with my teammate. I a
 
 ---
 
+<a href="#gemma-4-developer-agent--kaggle-competition"><img src="./assets/gemma4-minimal.svg" width="100%" alt="Gemma 4 Developer Agent project" /></a>
+
 ### Gemma 4 Developer Agent / Kaggle competition
 
 **A focused coding-agent submission using the pretrained Gemma 4 model.**
@@ -87,6 +97,8 @@ The code and executed Notebook remain in a **private repository** while the comp
 **Explore** &nbsp; [Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent) &nbsp; / &nbsp; [Kaggle profile](https://www.kaggle.com/kalidenaiarys)
 
 ---
+
+<a href="https://github.com/aiaryskaliden/titanic-historical-record-linkage"><img src="./assets/titanic-minimal.svg" width="100%" alt="Titanic record linkage project" /></a>
 
 ### Titanic / Historical Record Linkage
 
