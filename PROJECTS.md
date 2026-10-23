@@ -1,18 +1,6 @@
 # Projects
 
-<p align="center">
-  <a href="https://github.com/aiaryskaliden"><b>← Back to profile</b></a>
-  &nbsp; / &nbsp;
-  <a href="#spaceship-titanic--machine-learning"><b>Spaceship Titanic</b></a>
-  &nbsp; / &nbsp;
-  <a href="#guardianvoice--team-project"><b>GuardianVoice</b></a>
-  &nbsp; / &nbsp;
-  <a href="#gemma-4-developer-agent--kaggle-competition"><b>Gemma 4 Agent</b></a>
-  &nbsp; / &nbsp;
-  <a href="#titanic--historical-record-linkage"><b>Titanic</b></a>
-  &nbsp; / &nbsp;
-  <a href="https://www.kaggle.com/kalidenaiarys"><b>Kaggle</b></a>
-</p>
+[Profile](https://github.com/aiaryskaliden) · [AidMap](#aidmap--university-discovery--financial-aid) · [Spaceship Titanic](#spaceship-titanic--machine-learning) · [GuardianVoice](#guardianvoice--team-project) · [Kaggle](https://www.kaggle.com/kalidenaiarys)
 
 A selection of my personal and team projects. Here you'll find what we built, the tools behind it, and what the results mean.
 
