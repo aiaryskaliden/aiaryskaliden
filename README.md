@@ -1,50 +1,101 @@
-# Aiarys Kaliden
+<p align="center">
+  <img src="./assets/profile-header-minimal.svg" width="100%" alt="Aiarys Kaliden — minimal dark GitHub developer portfolio header." />
+</p>
 
-Student developer based in Kazakhstan, interested in **software development, mathematics, and applied machine learning**.
+<p align="center">
+  <a href="#selected-projects"><b>Explore projects</b></a>
+  &nbsp; · &nbsp;
+  <a href="./PROJECTS.md"><b>Projects</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.kaggle.com/kalidenaiarys"><b>Kaggle</b></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:aiariskaliden@gmail.com"><b>Contact</b></a>
+</p>
 
-I build web tools and data projects, experiment with practical ideas, and document what I learn along the way.
+### About me
 
-[Projects](./PROJECTS.md) · [Kaggle](https://www.kaggle.com/kalidenaiarys) · [Repositories](https://github.com/aiaryskaliden?tab=repositories) · [Email](mailto:aiariskaliden@gmail.com)
+I'm a student from Kazakhstan, interested in programming, mathematics and machine learning. I enjoy turning ideas into useful projects, exploring data, and writing code I can explain and improve.
 
-![Python](https://img.shields.io/badge/Python-0B7285?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data%20Science-0B7285?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0B7285?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B7285?style=flat-square)
-![React](https://img.shields.io/badge/React-0B7285?style=flat-square)
+**Tools I use** &nbsp; `Python` &nbsp; `pandas` &nbsp; `scikit-learn` &nbsp; `JavaScript` &nbsp; `React`
 
-## Featured projects
+### Selected projects
 
-### [AidMap](https://aidmap-aiaryskaliden.vercel.app/) — University discovery & financial aid
+<a href="https://aidmap-aiaryskaliden.vercel.app/"><img src="./assets/aidmap-minimal.svg" width="100%" alt="AidMap — university research and financial aid planning" /></a>
 
-A web project designed to make university research easier for international applicants: exploring schools, comparing admission requirements, and planning around funding options.
+**[AidMap](https://aidmap-aiaryskaliden.vercel.app/)** &nbsp;·&nbsp; *Web application*
 
-[Live website](https://aidmap-aiaryskaliden.vercel.app/) · [Project overview](https://github.com/aiaryskaliden/Aidmap)
+A project to help international applicants explore universities, compare admission information, and plan around possible funding options.
 
-### Spaceship Titanic — Machine learning
+[Live website](https://aidmap-aiaryskaliden.vercel.app/) &nbsp; / &nbsp; [Project overview](https://github.com/aiaryskaliden/Aidmap) &nbsp; / &nbsp; [Details](./PROJECTS.md#aidmap--university-discovery--financial-aid)
 
-A Kaggle classification project exploring feature engineering, CatBoost/LightGBM experiments, group-aware validation, and stacking with properly attributed third-party TabPFN predictions.
+*The public Aidmap repository currently contains the project overview, not the deployed site's source code. Confirm admission and aid information with official university sources.*
 
-**Public score: 0.82534** (recorded October 2026).
+---
 
-[Project write-up](./PROJECTS.md#spaceship-titanic--machine-learning) · [Kaggle competition](https://www.kaggle.com/competitions/spaceship-titanic)
+<a href="./PROJECTS.md#spaceship-titanic--machine-learning"><img src="./assets/spaceship-minimal.svg" width="100%" alt="Spaceship Titanic — Kaggle machine-learning project" /></a>
+
+**Spaceship Titanic — Classification Ensemble** &nbsp;·&nbsp; *Kaggle competition*
+
+Feature engineering, group-aware validation, CatBoost/LightGBM experiments, and stacking with properly attributed published TabPFN predictions.
+
+**Recorded Kaggle public score: 0.82534** (October 2026).
+
+`Python` &nbsp; `pandas` &nbsp; `CatBoost` &nbsp; `LightGBM` &nbsp; `scikit-learn`
+
+[Project details](./PROJECTS.md#spaceship-titanic--machine-learning) &nbsp; / &nbsp; [Competition](https://www.kaggle.com/competitions/spaceship-titanic)
 
 *Source repository is currently private.*
 
-### [GuardianVoice](https://github.com/zoga228/infomatrix_2026_GuardianVoice) — Team web project
+---
 
-A React prototype bringing together safety information and accessible interactions. I contributed to the interface, map and testing, including [keyboard and reduced-motion improvements](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1).
+<a href="https://github.com/zoga228/infomatrix_2026_GuardianVoice"><img src="./assets/guardianvoice-minimal.svg" width="100%" alt="GuardianVoice — collaborative React project" /></a>
 
-[Team repository](https://github.com/zoga228/infomatrix_2026_GuardianVoice)
+**[GuardianVoice](https://github.com/zoga228/infomatrix_2026_GuardianVoice)** &nbsp;·&nbsp; *Team project*
 
-## Other work
+A React prototype for safety information and accessibility. I worked on the interface, interactive map and testing, including keyboard-focus and reduced-motion improvements.
 
-- **[Gemma 4 Developer Agent](./PROJECTS.md#gemma-4-developer-agent--kaggle-competition)** — a coding-agent configuration prepared for a Kaggle competition.
-- **[Titanic Historical Record Linkage](https://github.com/aiaryskaliden/titanic-historical-record-linkage)** — reproducible data matching and provenance checks, rather than an ML survival predictor.
+`React` &nbsp; `Vite` &nbsp; `Leaflet` &nbsp; `JavaScript`
 
-## Tools & interests
+[Team repository](https://github.com/zoga228/infomatrix_2026_GuardianVoice) &nbsp; / &nbsp; [Merged PR](https://github.com/zoga228/infomatrix_2026_GuardianVoice/pull/1)
 
-`Python` · `pandas` · `scikit-learn` · `CatBoost` · `LightGBM` · `JavaScript` · `React`
+*The original project is a prototype; emergency features have not been independently validated.*
 
-I care about readable code, honest evaluation and useful software.
+---
 
-[More project details →](./PROJECTS.md)
+<a href="./PROJECTS.md#gemma-4-developer-agent--kaggle-competition"><img src="./assets/gemma4-minimal.svg" width="100%" alt="Gemma 4 Developer Agent — coding-agent project" /></a>
+
+**Gemma 4 Developer Agent** &nbsp;·&nbsp; *Kaggle competition*
+
+A single-agent workflow configured to understand repository issues, prepare focused patches, and check changes.
+
+`Python` &nbsp; `Gemma 4` &nbsp; `LLM agents`
+
+[Project details](./PROJECTS.md#gemma-4-developer-agent--kaggle-competition) &nbsp; / &nbsp; [Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent)
+
+*Source repository is private while competition sharing restrictions apply.*
+
+---
+
+<a href="https://github.com/aiaryskaliden/titanic-historical-record-linkage"><img src="./assets/titanic-minimal.svg" width="100%" alt="Titanic historical record linkage — data analysis" /></a>
+
+**[Titanic — Historical Record Linkage](https://github.com/aiaryskaliden/titanic-historical-record-linkage)** &nbsp;·&nbsp; *Data analysis*
+
+Reproducible Python matching between Titanic datasets, with checks for data provenance and leakage. This is not a survival-prediction model.
+
+[Source and methodology](https://github.com/aiaryskaliden/titanic-historical-record-linkage) &nbsp; / &nbsp; [Kaggle notebook](https://www.kaggle.com/code/kalidenaiarys/titanic-historical-record-linkage-1309-verified)
+
+### More work
+
+<a href="./PROJECTS.md"><img src="./assets/projects-explore-minimal.svg" width="100%" alt="Explore the complete project portfolio" /></a>
+
+<p align="center">
+  <a href="./PROJECTS.md">All projects</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/aiaryskaliden?tab=repositories">Repositories</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.kaggle.com/kalidenaiarys">Kaggle</a>
+</p>
+
+---
+
+<sub>Aiarys Kaliden · Building, learning, documenting.</sub>
