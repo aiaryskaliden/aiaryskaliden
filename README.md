@@ -20,13 +20,15 @@ A web project designed to make university research easier for international appl
 
 [Live website](https://aidmap-aiaryskaliden.vercel.app/) · [Project overview](https://github.com/aiaryskaliden/Aidmap)
 
-### [Spaceship Titanic](https://github.com/aiaryskaliden/Spaceship-Titanic67) — Machine learning
+### Spaceship Titanic — Machine learning
 
 A Kaggle classification project exploring feature engineering, CatBoost/LightGBM experiments, group-aware validation, and stacking with properly attributed third-party TabPFN predictions.
 
 **Public score: 0.82534** (recorded October 2026).
 
-[Repository & notebook](https://github.com/aiaryskaliden/Spaceship-Titanic67) · [Methods & attribution](https://github.com/aiaryskaliden/Spaceship-Titanic67/blob/main/ATTRIBUTION.md)
+[Project write-up](./PROJECTS.md#spaceship-titanic--machine-learning) · [Kaggle competition](https://www.kaggle.com/competitions/spaceship-titanic)
+
+*Source repository is currently private.*
 
 ### [GuardianVoice](https://github.com/zoga228/infomatrix_2026_GuardianVoice) — Team web project
 
