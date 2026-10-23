@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/projects-header.svg" width="100%" alt="Projects — dark developer portfolio with violet-blue glow and a code panel." />
-</p>
+# Projects
 
 <p align="center">
   <a href="https://github.com/aiaryskaliden"><b>← Back to profile</b></a>
@@ -20,9 +18,19 @@ A selection of my personal and team projects. Here you'll find what we built, th
 
 ---
 
-<a href="https://github.com/aiaryskaliden/Spaceship-Titanic67">
-  <img src="./assets/spaceship-titanic-project.jpg" width="100%" alt="Spaceship Titanic — cinematic spacecraft artwork for a machine-learning project." />
-</a>
+### AidMap / University discovery & financial aid
+
+**A web project for exploring universities and funding options in one place.**
+
+AidMap is designed to help international applicants research universities, compare important application details and plan around the financial side of studying abroad. The project aims to make it easier to build a thoughtful shortlist instead of switching between dozens of pages.
+
+`Web product` · `University research` · `Financial-aid planning` · `User experience`
+
+**Explore** · [Live website](https://aidmap-aiaryskaliden.vercel.app/) · [Project overview](https://github.com/aiaryskaliden/Aidmap)
+
+*The Aidmap GitHub repository currently contains documentation, not the deployed application's source. Admission and funding details should be verified using official university sources.*
+
+---
 
 ### Spaceship Titanic / Machine Learning
 
@@ -54,10 +62,6 @@ The out-of-fold score is a development estimate rather than a held-out Kaggle re
 
 ---
 
-<a href="https://github.com/zoga228/infomatrix_2026_GuardianVoice">
-  <img src="./assets/guardianvoice-project.jpg" width="100%" alt="GuardianVoice — team-built React application for personal safety and accessibility." />
-</a>
-
 ### GuardianVoice / Team project
 
 **A working React web application combining personal-safety tools and accessible interaction.**
@@ -80,10 +84,6 @@ I worked on the UI and visual design, the map, and testing with my teammate. I a
 
 ---
 
-<a href="https://www.kaggle.com/competitions/gemma-4-developer-agent">
-  <img src="./assets/gemma4-project-clean.jpg" width="100%" alt="Gemma 4 Developer Agent — a single-agent coding workflow." />
-</a>
-
 ### Gemma 4 Developer Agent / Kaggle competition
 
 **A focused coding-agent submission using the pretrained Gemma 4 model.**
@@ -99,10 +99,6 @@ The code and executed Notebook remain in a **private repository** while the comp
 **Explore** &nbsp; [Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent) &nbsp; / &nbsp; [Kaggle profile](https://www.kaggle.com/kalidenaiarys)
 
 ---
-
-<a href="https://github.com/aiaryskaliden/titanic-historical-record-linkage">
-  <img src="./assets/titanic-project.jpg" width="100%" alt="Titanic — Historical Record Linkage, Python and pandas data project." />
-</a>
 
 ### Titanic / Historical Record Linkage
 
