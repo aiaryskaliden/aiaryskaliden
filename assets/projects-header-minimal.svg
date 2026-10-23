@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Selected Projects">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0a0e14"/><stop offset="1" stop-color="#121522"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#b1a4da"/><stop offset="1" stop-color="#7e9bad"/></linearGradient></defs>
+<rect width="1200" height="260" rx="10" fill="url(#bg)"/>
+<rect x="0.8" y="0.8" width="1198.4" height="258.4" rx="9" fill="none" stroke="#2a2d38" stroke-width="1.6"/>
+
+<path d="M0 43H1200" stroke="#2d303c"/>
+<circle cx="39" cy="22" r="3" fill="#a79cc6"/>
+<text x="54" y="27" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#a4acbb" letter-spacing="1.9">AIARYS / PORTFOLIO</text>
+<text x="1160" y="27" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#768095" letter-spacing="1.5">SELECTED WORK</text>
+<rect x="44" y="74" width="4" height="124" rx="2" fill="#8678a6"/>
+<text x="70" y="142" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" fill="#eef1f5">Projects<tspan fill="#b1a4da">.</tspan></text>
+<text x="73" y="178" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#b0b8c5">Software, experiments, and things I've built.</text>
+<text x="73" y="211" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#8793a4">Selected work in development, web and data.</text>
+<rect x="845" y="78" width="305" height="141" rx="8" fill="#0c1119" stroke="#313541"/>
+<path d="M845 107H1150" stroke="#303441"/>
+<circle cx="864" cy="92" r="3" fill="#787a89"/><circle cx="877" cy="92" r="3" fill="#787a89"/><circle cx="890" cy="92" r="3" fill="#787a89"/>
+<text x="1129" y="97" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#7f889b">projects.py</text>
+<g font-family="Consolas,monospace" font-size="16">
+<text x="863" y="139" fill="#a9a0c6">projects = [</text>
+<text x="882" y="164" fill="#a2bcbd">'AidMap',</text>
+<text x="882" y="189" fill="#a2bcbd">'ML', 'Web', 'Data'</text>
+<text x="863" y="209" fill="#a9a0c6">]</text>
+</g>
+</svg>
