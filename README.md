@@ -28,7 +28,7 @@ A source-linked, local-first project covering **34 university research profiles*
 
 [Live website](https://aidmap-aiaryskaliden.vercel.app/) &nbsp; / &nbsp; [Project overview](https://github.com/aiaryskaliden/Aidmap) &nbsp; / &nbsp; [Details](./PROJECTS.md#aidmap--university-discovery--financial-aid)
 
-*The public Aidmap repository currently contains the project overview, not the deployed site's source code. Confirm admission and aid information with official university sources.*
+*The public repository includes the application source and data methodology. Confirm admission and aid information with official university sources.*
 
 ---
 
@@ -86,7 +86,7 @@ Reproducible Python matching between Titanic datasets, with checks for data prov
 
 ### Kaggle — recent results and notebooks
 
-- **Predicting Airline Satisfaction (2026):** ranked **213rd of 3,734 teams** in the completed Kaggle Playground competition (profile snapshot: November 11, 2026).
+- **Predicting Airline Satisfaction (2026):** ranked **213th of 3,734 teams (top 5.7%)** in the completed Kaggle Playground competition (profile snapshot: November 11, 2026).
 - **Google Quantum AI — Verifiable Quantum Circuit Compilation:** experimented with circuit optimization, validation, and submission packaging. [Public notebook](https://www.kaggle.com/code/kalidenaiarys/24-80179-public-lb-quantum-circuit-compilation). No unverified rank or medal claimed.
 - **Five public notebooks:** including Spaceship Titanic, quantum circuits, the historical Titanic record-linkage study, PLE Field Lab, and CarbonGlobe.
 
