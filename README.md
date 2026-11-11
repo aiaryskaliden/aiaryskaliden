@@ -38,36 +38,33 @@ I co-developed a React accessibility prototype. My merged changes covered the in
 | [Google Quantum AI](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation) | **25.09052** | 1,060 / 2,856 teams (Nov. 12, 2026) |
 | [Gemma 4 Developer Agent](https://www.kaggle.com/competitions/gemma-4-developer-agent) | **0.17** | 2,234 / 5,427 teams (Nov. 12, 2026) |
 
-<details>
-<summary><strong>Competition work and score improvements</strong></summary>
+### Competition work
 
-[![Predicting Airline Satisfaction](./assets/airline-minimal.svg)](https://www.kaggle.com/competitions/playground-series-s6e10)
+<a href="https://www.kaggle.com/competitions/playground-series-s6e10"><img src="./assets/airline-minimal.svg" width="100%" alt="Predicting Airline Satisfaction" /></a>
 
 Competed individually in tabular classification of passenger satisfaction. Finished **213th of 3,734 teams (top 5.7%)**.
 
 ---
 
-[![Enveda CASMI 2026](./assets/casmi-minimal.svg)](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra)
+<a href="https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra"><img src="./assets/casmi-minimal.svg" width="100%" alt="Enveda CASMI 2026" /></a>
 
 Compared notebook runs that inferred molecular structures from mass spectra. Improved my public score from **0.481 to 0.487** (**109th of 5,142 teams**, top 2.1%).
 
 ---
 
-[![Name That LLM](./assets/name-llm-minimal.svg)](https://www.kaggle.com/competitions/name-that-llm)
+<a href="https://www.kaggle.com/competitions/name-that-llm"><img src="./assets/name-llm-minimal.svg" width="100%" alt="Name That LLM" /></a>
 
 Evaluated successive model-attribution notebooks against Kaggle’s public benchmark. Raised my score from **0.669 to 0.682** (**403rd of 5,535 teams**, top 7.3%).
 
 ---
 
-[![Google Quantum AI](./assets/quantum-minimal.svg)](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation)
+<a href="https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation"><img src="./assets/quantum-minimal.svg" width="100%" alt="Google Quantum AI" /></a>
 
 Compared candidate circuits, checked validity and evaluated resource use. Raised my personal best from **24.94087 to 25.09052** (**1,060th of 2,856 teams**).
 
 <a href="./PROJECTS.md#gemma-4-developer-agent--kaggle-competition"><img src="./assets/gemma4-minimal.svg" width="100%" alt="Gemma 4 Developer Agent — coding-agent project" /></a>
 
 **Gemma 4 Developer Agent.** I configured a pretrained agent to inspect repositories, propose focused patches and check them against tests. [Project notes](./PROJECTS.md#gemma-4-developer-agent--kaggle-competition)
-
-</details>
 
 [Kaggle profile](https://www.kaggle.com/kalidenaiarys) · [Competition records and notebooks](./KAGGLE.md)
 
