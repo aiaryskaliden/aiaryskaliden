@@ -84,13 +84,27 @@ Reproducible Python matching between Titanic datasets, with checks for data prov
 
 [Source and methodology](https://github.com/aiaryskaliden/titanic-historical-record-linkage) &nbsp; / &nbsp; [Kaggle notebook](https://www.kaggle.com/code/kalidenaiarys/titanic-historical-record-linkage-1309-verified)
 
-### Kaggle — recent results and notebooks
+### Kaggle — competition results
 
-- **Predicting Airline Satisfaction (2026):** ranked **213th of 3,734 teams (top 5.7%)** in the completed Kaggle Playground competition (profile snapshot: November 11, 2026).
-- **Google Quantum AI — Verifiable Quantum Circuit Compilation:** experimented with circuit optimization, validation, and submission packaging. [Public notebook](https://www.kaggle.com/code/kalidenaiarys/24-80179-public-lb-quantum-circuit-compilation). No unverified rank or medal claimed.
-- **Five public notebooks:** including Spaceship Titanic, quantum circuits, the historical Titanic record-linkage study, PLE Field Lab, and CarbonGlobe.
+**[Predicting Airline Satisfaction](https://www.kaggle.com/competitions/playground-series-s6e10)** · *Customer analytics and tabular classification*  
+Ranked **213th of 3,734 teams (top 5.7%)** in the completed competition, according to my [Kaggle profile](https://www.kaggle.com/kalidenaiarys/competitions), checked November 11, 2026.
 
-[Selected Kaggle work and evidence notes](./KAGGLE.md) &nbsp; / &nbsp; [Kaggle profile](https://www.kaggle.com/kalidenaiarys)
+**[Name That LLM](https://www.kaggle.com/competitions/name-that-llm)** · *LLM attribution and classification*  
+Submitted a notebook for identifying the model behind a text; recorded **0.682 public score** in the submission history.
+
+**[Google Quantum AI — Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation)** · *Quantum computing and optimization*  
+Experimented with circuit compilation, validation and submission packaging; recorded **25.09052 public score** for a successful ZIP submission. The linked [public notebook](https://www.kaggle.com/code/kalidenaiarys/24-80179-public-lb-quantum-circuit-compilation) documents earlier work; its connection to that submission has not been established.
+
+**[Enveda CASMI 2026](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra)** · *Computational chemistry and molecular identification*  
+Submitted a notebook in the molecular-structure identification challenge; recorded **0.487 public score**.
+
+**[Gemma 4 Developer Agent](https://www.kaggle.com/competitions/gemma-4-developer-agent)** · *LLM agents and software engineering*  
+Configured a pretrained-model coding agent and packaged submissions; recorded **0.17 public score**. [Agent project details](./PROJECTS.md#gemma-4-developer-agent--kaggle-competition).
+
+**[Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic)** · *Tabular machine learning*  
+Recorded **0.82534 public accuracy** and **#15 on October 19, 2026**. Feature engineering and stacking experiments used credited third-party TabPFN predictions.
+
+Public scores were observed on November 11, 2026; the active competitions had not reached their final standings. A score is not a medal, and a historical rank can change. See [Kaggle evidence and methodology](./KAGGLE.md) and my [profile](https://www.kaggle.com/kalidenaiarys).
 
 ---
 
