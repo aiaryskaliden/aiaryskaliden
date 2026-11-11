@@ -90,16 +90,16 @@ Reproducible Python matching between Titanic datasets, with checks for data prov
 Ranked **213th of 3,734 teams (top 5.7%)** in the completed competition, according to my [Kaggle profile](https://www.kaggle.com/kalidenaiarys/competitions), checked November 11, 2026.
 
 **[Name That LLM](https://www.kaggle.com/competitions/name-that-llm)** · *LLM attribution and classification*  
-Submitted a notebook for identifying the model behind a text; recorded **0.682 public score** in the submission history.
+Submitted a notebook for identifying the model behind a text; recorded **0.682 public score**, ranking **401st** on the public leaderboard (November 12, 2026).
 
 **[Google Quantum AI — Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation)** · *Quantum computing and optimization*  
-Experimented with circuit compilation, validation and submission packaging; recorded **25.09052 public score** for a successful ZIP submission. The linked [public notebook](https://www.kaggle.com/code/kalidenaiarys/24-80179-public-lb-quantum-circuit-compilation) documents earlier work; its connection to that submission has not been established.
+Experimented with circuit compilation, validation and submission packaging; recorded **25.09052 public score**, ranking **1,060th** on the public leaderboard (November 12, 2026). The linked [public notebook](https://www.kaggle.com/code/kalidenaiarys/24-80179-public-lb-quantum-circuit-compilation) documents earlier work; its connection to that submission has not been established.
 
 **[Enveda CASMI 2026](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra)** · *Computational chemistry and molecular identification*  
-Submitted a notebook in the molecular-structure identification challenge; recorded **0.487 public score**.
+Submitted a notebook in the molecular-structure identification challenge; recorded **0.487 public score**, ranking **109th** on the public leaderboard (November 12, 2026).
 
 **[Gemma 4 Developer Agent](https://www.kaggle.com/competitions/gemma-4-developer-agent)** · *LLM agents and software engineering*  
-Configured a pretrained-model coding agent and packaged submissions; recorded **0.17 public score**. [Agent project details](./PROJECTS.md#gemma-4-developer-agent--kaggle-competition).
+Configured a pretrained-model coding agent and packaged submissions; recorded **0.17 public score**, ranking **2,234th** on the public leaderboard (November 12, 2026). [Agent project details](./PROJECTS.md#gemma-4-developer-agent--kaggle-competition).
 
 **[Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic)** · *Tabular machine learning*  
 Recorded **0.82534 public accuracy** and **#15 on October 19, 2026**. Feature engineering and stacking experiments used credited third-party TabPFN predictions.
