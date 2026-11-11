@@ -38,7 +38,7 @@ A source-linked, local-first project covering **34 university research profiles*
 
 Feature engineering, group-aware validation, CatBoost/LightGBM experiments, and stacking with properly attributed published TabPFN predictions.
 
-**Recorded Kaggle public score: 0.82534; #15 on the public leaderboard on October 19, 2026** (dated snapshot; rankings change).
+**Recorded Kaggle public score: 0.82534; #15 on the public leaderboard on October 19, 2026**; **56th of 2,030 teams on November 12, 2026**.
 
 `Python` &nbsp; `pandas` &nbsp; `CatBoost` &nbsp; `LightGBM` &nbsp; `scikit-learn`
 
@@ -66,7 +66,7 @@ A React prototype for safety information and accessibility. I worked on the inte
 
 **Gemma 4 Developer Agent** &nbsp;·&nbsp; *Kaggle competition*
 
-A single-agent workflow configured to understand repository issues, prepare focused patches, and check changes.
+I configured a pretrained Gemma agent to inspect repositories, propose focused patches and check them against tests. My best public score was **0.17** (**2,234th of 5,427 teams**, November 12, 2026).
 
 `Python` &nbsp; `Gemma 4` &nbsp; `LLM agents`
 
@@ -84,27 +84,33 @@ Reproducible Python matching between Titanic datasets, with checks for data prov
 
 [Source and methodology](https://github.com/aiaryskaliden/titanic-historical-record-linkage) &nbsp; / &nbsp; [Kaggle notebook](https://www.kaggle.com/code/kalidenaiarys/titanic-historical-record-linkage-1309-verified)
 
-### Kaggle — competition results
+### Kaggle competition results
 
-**[Predicting Airline Satisfaction](https://www.kaggle.com/competitions/playground-series-s6e10)** · *Customer analytics and tabular classification*  
-Ranked **213th of 3,734 teams (top 5.7%)** in the completed competition, according to my [Kaggle profile](https://www.kaggle.com/kalidenaiarys/competitions), checked November 11, 2026.
+Public leaderboard snapshots are dated November 12, 2026. Airline Satisfaction is a completed competition.
 
-**[Name That LLM](https://www.kaggle.com/competitions/name-that-llm)** · *LLM attribution and classification*  
-Submitted a notebook for identifying the model behind a text; recorded **0.682 public score**, ranking **401st** on the public leaderboard (November 12, 2026).
+[![Predicting Airline Satisfaction](./assets/airline-minimal.svg)](https://www.kaggle.com/competitions/playground-series-s6e10)
 
-**[Google Quantum AI — Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation)** · *Quantum computing and optimization*  
-Experimented with circuit compilation, validation and submission packaging; recorded **25.09052 public score**, ranking **1,060th** on the public leaderboard (November 12, 2026). The linked [public notebook](https://www.kaggle.com/code/kalidenaiarys/24-80179-public-lb-quantum-circuit-compilation) documents earlier work; its connection to that submission has not been established.
+Competed individually in tabular classification of passenger satisfaction. Finished **213th of 3,734 teams (top 5.7%)**.
 
-**[Enveda CASMI 2026](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra)** · *Computational chemistry and molecular identification*  
-Submitted a notebook in the molecular-structure identification challenge; recorded **0.487 public score**, ranking **109th** on the public leaderboard (November 12, 2026).
+---
 
-**[Gemma 4 Developer Agent](https://www.kaggle.com/competitions/gemma-4-developer-agent)** · *LLM agents and software engineering*  
-Configured a pretrained-model coding agent and packaged submissions; recorded **0.17 public score**, ranking **2,234th** on the public leaderboard (November 12, 2026). [Agent project details](./PROJECTS.md#gemma-4-developer-agent--kaggle-competition).
+[![Enveda CASMI 2026](./assets/casmi-minimal.svg)](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra)
 
-**[Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic)** · *Tabular machine learning*  
-Recorded **0.82534 public accuracy** and **#15 on October 19, 2026**. Feature engineering and stacking experiments used credited third-party TabPFN predictions.
+Compared notebook runs that inferred molecular structures from mass spectra. Improved my public score from **0.481 to 0.487** (**109th of 5,142 teams**, top 2.1%).
 
-Public scores were observed on November 11, 2026; the active competitions had not reached their final standings. A score is not a medal, and a historical rank can change. See [Kaggle evidence and methodology](./KAGGLE.md) and my [profile](https://www.kaggle.com/kalidenaiarys).
+---
+
+[![Name That LLM](./assets/name-llm-minimal.svg)](https://www.kaggle.com/competitions/name-that-llm)
+
+Evaluated successive model-attribution notebooks against Kaggle’s public benchmark. Raised my score from **0.669 to 0.682** (**403rd of 5,535 teams**, top 7.3%).
+
+---
+
+[![Google Quantum AI](./assets/quantum-minimal.svg)](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation)
+
+Compared candidate circuits, checked validity and evaluated resource use. Raised my personal best from **24.94087 to 25.09052** (**1,060th of 2,856 teams**).
+
+[Competition records and public notebooks](./KAGGLE.md)
 
 ---
 
