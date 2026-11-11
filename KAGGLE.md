@@ -6,7 +6,7 @@ A dated overview of my Kaggle competitions, notebooks and project methods. **A l
 
 | Competition | Recorded result | Evidence and qualification |
 | --- | --- | --- |
-| [Predicting Airline Satisfaction — Playground Series S6E10](https://www.kaggle.com/competitions/playground-series-s6e10) | **213rd of 3,734 teams** | Completed competition, displayed on [my Kaggle competition profile](https://www.kaggle.com/kalidenaiarys/competitions), checked November 11, 2026. |
+| [Predicting Airline Satisfaction — Playground Series S6E10](https://www.kaggle.com/competitions/playground-series-s6e10) | **213th of 3,734 teams (top 5.7%)** | Completed competition, displayed on [my Kaggle competition profile](https://www.kaggle.com/kalidenaiarys/competitions), checked November 11, 2026. The underlying notebook, score, and specific model pipeline have not yet been independently linked to this result. |
 | [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) | **0.82534 public accuracy; #15 on October 19, 2026** | Historical leaderboard screenshot and reproducibility notes in the [project README](https://github.com/aiaryskaliden/Spaceship-Titanic67). A rolling leaderboard may change. |
 | [Google Quantum AI — Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation) | Several candidate solutions and submissions; **no final rank claimed** | [Public notebook](https://www.kaggle.com/code/kalidenaiarys/24-80179-public-lb-quantum-circuit-compilation). Notebook titles and scores should not be treated as independently verified final results. |
 
