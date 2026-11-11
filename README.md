@@ -14,7 +14,7 @@
 
 ### About me
 
-I'm a student from Kazakhstan, interested in programming, mathematics and machine learning. I enjoy turning ideas into useful projects, exploring data, and writing code I can explain and improve.
+I'm a Grade 12 student at Nazarbayev Intellectual School in Kazakhstan, focused on AI, computer science, and building useful software. I won a **team silver medal at FAIO 2026** (5th of 47 finalist teams). My work ranges from a source-linked university-planning application to Kaggle experiments and reproducible data analysis.
 
 **Tools I use** &nbsp; `Python` &nbsp; `pandas` &nbsp; `scikit-learn` &nbsp; `JavaScript` &nbsp; `React`
 
@@ -24,7 +24,7 @@ I'm a student from Kazakhstan, interested in programming, mathematics and machin
 
 **[AidMap](https://aidmap-aiaryskaliden.vercel.app/)** &nbsp;·&nbsp; *Web application*
 
-A project to help international applicants explore universities, compare admission information, and plan around possible funding options.
+A source-linked, local-first project covering **34 university research profiles**, with admission and scholarship comparisons, cost scenarios, and a private application-planning workspace.
 
 [Live website](https://aidmap-aiaryskaliden.vercel.app/) &nbsp; / &nbsp; [Project overview](https://github.com/aiaryskaliden/Aidmap) &nbsp; / &nbsp; [Details](./PROJECTS.md#aidmap--university-discovery--financial-aid)
 
@@ -38,7 +38,7 @@ A project to help international applicants explore universities, compare admissi
 
 Feature engineering, group-aware validation, CatBoost/LightGBM experiments, and stacking with properly attributed published TabPFN predictions.
 
-**Recorded Kaggle public score: 0.82534** (October 2026).
+**Recorded Kaggle public score: 0.82534; #15 on the public leaderboard on October 19, 2026** (dated snapshot; rankings change).
 
 `Python` &nbsp; `pandas` &nbsp; `CatBoost` &nbsp; `LightGBM` &nbsp; `scikit-learn`
 
@@ -83,6 +83,16 @@ A single-agent workflow configured to understand repository issues, prepare focu
 Reproducible Python matching between Titanic datasets, with checks for data provenance and leakage. This is not a survival-prediction model.
 
 [Source and methodology](https://github.com/aiaryskaliden/titanic-historical-record-linkage) &nbsp; / &nbsp; [Kaggle notebook](https://www.kaggle.com/code/kalidenaiarys/titanic-historical-record-linkage-1309-verified)
+
+### Kaggle — recent results and notebooks
+
+- **Predicting Airline Satisfaction (2026):** ranked **213rd of 3,734 teams** in the completed Kaggle Playground competition (profile snapshot: November 11, 2026).
+- **Google Quantum AI — Verifiable Quantum Circuit Compilation:** experimented with circuit optimization, validation, and submission packaging. [Public notebook](https://www.kaggle.com/code/kalidenaiarys/24-80179-public-lb-quantum-circuit-compilation). No unverified rank or medal claimed.
+- **Five public notebooks:** including Spaceship Titanic, quantum circuits, the historical Titanic record-linkage study, PLE Field Lab, and CarbonGlobe.
+
+[Selected Kaggle work and evidence notes](./KAGGLE.md) &nbsp; / &nbsp; [Kaggle profile](https://www.kaggle.com/kalidenaiarys)
+
+---
 
 ### More work
 
