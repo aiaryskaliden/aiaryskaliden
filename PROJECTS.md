@@ -16,11 +16,11 @@ A selection of my personal and team projects. Here you'll find what we built, th
 
 AidMap is designed to help international applicants research universities, compare important application details and plan around the financial side of studying abroad. The project aims to make it easier to build a thoughtful shortlist instead of switching between dozens of pages.
 
-`Web product` · `University research` · `Financial-aid planning` · `User experience`
+`Next.js` · `React` · `TypeScript` · `Zod` · `University research` · `Financial-aid planning`
 
 **Explore** · [Live website](https://aidmap-aiaryskaliden.vercel.app/) · [Project overview](https://github.com/aiaryskaliden/Aidmap)
 
-*The Aidmap GitHub repository currently contains documentation, not the deployed application's source. Admission and funding details should be verified using official university sources.*
+*The public AidMap repository contains the application source, documentation, and data methodology. Admission and funding details should be verified using official university sources.*
 
 ---
 
