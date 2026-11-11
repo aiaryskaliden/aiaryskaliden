@@ -33,7 +33,7 @@ I co-developed a React accessibility prototype. My merged changes covered the in
 | :--- | ---: | :--- |
 | [Enveda CASMI](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra) | **0.487** | 109 / 5,142 teams (Nov. 12, 2026) |
 | [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) | **0.82534** | 56 / 2,030 teams (Nov. 12, 2026) |
-| [Predicting Airline Satisfaction](https://www.kaggle.com/competitions/playground-series-s6e10) | — | **213 / 3,734 teams** (final) |
+| [Predicting Airline Satisfaction](https://www.kaggle.com/competitions/playground-series-s6e10) | **0.96238** | **213 / 3,734 teams** (final) |
 | [Name That LLM](https://www.kaggle.com/competitions/name-that-llm) | **0.682** | 403 / 5,535 teams (Nov. 12, 2026) |
 | [Google Quantum AI](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation) | **25.09052** | 1,060 / 2,856 teams (Nov. 12, 2026) |
 | [Gemma 4 Developer Agent](https://www.kaggle.com/competitions/gemma-4-developer-agent) | **0.17** | 2,234 / 5,427 teams (Nov. 12, 2026) |
