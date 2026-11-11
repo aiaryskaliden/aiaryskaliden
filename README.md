@@ -1,4 +1,4 @@
-<img src="./assets/profile-header-minimal.svg" width="100%" alt="Aiarys Kaliden — machine learning and software engineering, Nazarbayev Intellectual School, Kazakhstan" />
+<img src="https://raw.githubusercontent.com/aiaryskaliden/aiaryskaliden/30dffd0dfdece953a0c46fd3e4433a3f66a57046/assets/profile-header-minimal.svg" width="100%" alt="Hi, I'm Aiarys Kaliden. Student Developer — profile.py" />
 
 [Selected projects](#selected-projects) · [Kaggle results](#kaggle-results) · [All projects](./PROJECTS.md) · [Contact](mailto:aiariskaliden@gmail.com)
 
