@@ -31,6 +31,7 @@ I co-developed a React accessibility prototype. My merged changes covered the in
 
 | Competition | Best recorded score | Leaderboard position |
 | :--- | ---: | :--- |
+| [Predicting Credit Card Fraud](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) | **0.95354 ROC-AUC** | **30 / 1,603 (~top 1.9%)**, public snapshot Nov. 12, 2026; ongoing |
 | [Enveda CASMI](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra) | **0.487** | 109 / 5,142 teams (Nov. 12, 2026) |
 | [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) | **0.82534** | 56 / 2,030 teams (Nov. 12, 2026) |
 | [Predicting Airline Satisfaction](https://www.kaggle.com/competitions/playground-series-s6e10) | **0.96238** | **213 / 3,734 teams** (final) |
@@ -39,6 +40,10 @@ I co-developed a React accessibility prototype. My merged changes covered the in
 | [Gemma 4 Developer Agent](https://www.kaggle.com/competitions/gemma-4-developer-agent) | **0.17** | 2,234 / 5,427 teams (Nov. 12, 2026) |
 
 ### Competition work
+
+**Credit Card Fraud Detection.** In Kaggle's November 2026 tabular fraud-prediction challenge, my public submission reached **0.95354 ROC-AUC** and **30th of 1,603 ranked entries** on November 12 (temporary public leaderboard; score based on ~20% of test labels). The exact scored notebook and methods still need to be linked before making any claims about the modeling pipeline. [Competition leaderboard](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard).
+
+---
 
 <a href="https://www.kaggle.com/competitions/playground-series-s6e10"><img src="./assets/airline-minimal.svg" width="100%" alt="Predicting Airline Satisfaction" /></a>
 
