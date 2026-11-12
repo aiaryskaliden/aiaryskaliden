@@ -6,6 +6,7 @@ A dated overview of my Kaggle competitions, notebooks and project methods. **A l
 
 | Competition | Recorded result | Evidence and qualification |
 | --- | --- | --- |
+| [Predicting Credit Card Fraud — Playground Series S6E11](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) | **0.95354 ROC-AUC; #30 / 1,603 ranked entries (~top 1.9%)** | Public leaderboard snapshot on November 12, 2026, corroborated by the applicant's screenshot and the Kaggle leaderboard. **Active competition**; scoring uses ~20% of test data, and the private final standings may change. Submission notebook and pipeline have **not yet been retrieved or verified**. |
 | [Predicting Airline Satisfaction — Playground Series S6E10](https://www.kaggle.com/competitions/playground-series-s6e10) | **213th of 3,734 teams (top 5.7%)** | Completed competition, displayed on [my Kaggle competition profile](https://www.kaggle.com/kalidenaiarys/competitions), checked November 11, 2026. The underlying notebook, score, and specific model pipeline have not yet been independently linked to this result. |
 | [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) | **0.82534 public accuracy; #15 on October 19, 2026; #56 of 2,030 teams on November 12, 2026** | Historical leaderboard screenshot and reproducibility notes in the [project README](https://github.com/aiaryskaliden/Spaceship-Titanic67). A rolling leaderboard may change. |
 | [Name That LLM](https://www.kaggle.com/competitions/name-that-llm) | **0.682 public score; #403 of 5,535 teams** | Successful notebook submission, version 1; observed in submission history November 11, 2026. Competition active. |
@@ -34,4 +35,4 @@ Other competitions visible on [my Kaggle profile](https://www.kaggle.com/kaliden
 - Attribute reused predictions, notebooks, datasets and pretrained models.
 - Explain reproducibility limitations when competition data, hidden tests, or restricted code cannot be distributed.
 
-*Last reviewed: November 11, 2026.*
+*Last reviewed: November 12, 2026.*
