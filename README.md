@@ -2,21 +2,21 @@
 
 [Selected projects](#selected-projects) · [Kaggle results](#kaggle-results) · [All projects](./PROJECTS.md) · [Contact](mailto:aiariskaliden@gmail.com)
 
-I'm a Grade 12 student in Kazakhstan. I build tools for university applicants and study how machine-learning models perform on real datasets. At the **2026 International Fizmat Artificial Intelligence Olympiad**, my team won **silver, placing 5th among 47 finalist teams**.
+I'm a Grade 12 student in Kazakhstan. I build tools for university applicants and study how machine-learning models perform on real datasets. At the **2026 International Fizmat Artificial Intelligence Olympiad**, my team won **silver, placing 5th among 47 finalist teams**. During practice I trained baseline models and shared their results so we could compare the team’s next experiments.
 
 ## Selected projects
 
 <a href="https://aidmap-aiaryskaliden.vercel.app/"><img src="./assets/aidmap-minimal.svg" width="100%" alt="AidMap — university research and financial aid planning" /></a>
 
 ### AidMap
-I built a university and financial-aid explorer covering **34 university profiles**. Applicants can compare costs and scholarship terms, follow each claim to its source and keep their application plans on their own device.
+I built AidMap while researching how to fund my own degree. It now covers **34 university profiles**. In the initial 30-profile dataset, I linked **558 data points** to sources and included **38 funding entries**. Applicants can compare costs and scholarship terms, follow each claim to its source and keep their application plans on their own device.
 
 [Open AidMap](https://aidmap-aiaryskaliden.vercel.app/) · [Source code and data methodology](https://github.com/aiaryskaliden/Aidmap)
 
 <a href="./PROJECTS.md#spaceship-titanic--machine-learning"><img src="./assets/spaceship-minimal.svg" width="100%" alt="Spaceship Titanic — Kaggle machine-learning project" /></a>
 
 ### Spaceship Titanic
-I engineered passenger-group and cabin features, evaluated CatBoost and LightGBM using group-aware validation, and tested stacking with published TabPFN predictions. My ensemble reached **0.82534 public accuracy** and ranked **15th** on October 19, 2026.
+I engineered passenger-group and cabin features, evaluated CatBoost and LightGBM using group-aware validation, and tested stacking with published TabPFN predictions. I produced predictions for **4,277 test passengers**. My ensemble reached **0.82534 public accuracy** and ranked **15th** on October 19, 2026.
 
 [Read the experiment notes](./PROJECTS.md#spaceship-titanic--machine-learning) · [Competition](https://www.kaggle.com/competitions/spaceship-titanic)
 
@@ -42,7 +42,7 @@ I co-developed a React accessibility prototype. My merged changes covered the in
 
 <a href="https://www.kaggle.com/competitions/playground-series-s6e10"><img src="./assets/airline-minimal.svg" width="100%" alt="Predicting Airline Satisfaction" /></a>
 
-Competed individually in tabular classification of passenger satisfaction. Finished **213th of 3,734 teams (top 5.7%)**.
+I predicted airline passenger satisfaction as an individual competitor. My score of **0.96238** placed me **213th of 3,734 teams (top 5.7%)**.
 
 ---
 
