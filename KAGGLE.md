@@ -6,7 +6,7 @@ A dated overview of my Kaggle competitions, notebooks and project methods. **A l
 
 | Competition | Recorded result | Evidence and qualification |
 | --- | --- | --- |
-| [Predicting Credit Card Fraud — Playground Series S6E11](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) | **0.95354 ROC-AUC; #30 / 1,603 ranked entries (~top 1.9%)** | Public leaderboard snapshot on November 12, 2026, corroborated by the applicant's screenshot and the Kaggle leaderboard. **Active competition**; scoring uses ~20% of test data, and the private final standings may change. Submission notebook and pipeline have **not yet been retrieved or verified**. |
+| [Predicting Credit Card Fraud — Playground Series S6E11](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) | **0.95390 public ROC-AUC; #38 displayed** | Two screenshots provided **November 14, 2026**: the Kaggle submissions history shows 0.95388 and earlier 0.95354 successful submissions; the highlighted leaderboard row for “Kaliden Aiarys” shows 0.95390, 7 submissions and #38. Multiple neighboring rows tie at 0.95390. Earlier #30/1,603 was a Nov. 12 snapshot for 0.95354, not the current rank. The competition remains active and the precise training pipeline of the latest result is not confirmed by the screenshots. |
 | [Predicting Airline Satisfaction — Playground Series S6E10](https://www.kaggle.com/competitions/playground-series-s6e10) | **213th of 3,734 teams (top 5.7%)** | Completed competition, displayed on [my Kaggle competition profile](https://www.kaggle.com/kalidenaiarys/competitions), checked November 11, 2026. The underlying notebook, score, and specific model pipeline have not yet been independently linked to this result. |
 | [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) | **0.82534 public accuracy; #15 on October 19, 2026; #56 of 2,030 teams on November 12, 2026** | Historical leaderboard screenshot and reproducibility notes in the [project README](https://github.com/aiaryskaliden/Spaceship-Titanic67). A rolling leaderboard may change. |
 | [Name That LLM](https://www.kaggle.com/competitions/name-that-llm) | **0.682 public score; #403 of 5,535 teams** | Successful notebook submission, version 1; observed in submission history November 11, 2026. Competition active. |
@@ -16,7 +16,7 @@ A dated overview of my Kaggle competitions, notebooks and project methods. **A l
 
 The public quantum notebook documents earlier experiments; its title does not establish the source of the newer 27.30661 submission. Exact submission-to-code mapping is still being verified.
 
-Public leaderboard positions above were observed November 12, 2026, **except Google Quantum AI updated from the user's November 14 screenshot**. They may change before final results.
+Public leaderboard positions above were observed November 12, 2026, **except Google Quantum AI and Credit Card Fraud updated from screenshots provided November 14**. They may change before final results.
 
 ## Selected public notebooks
 
@@ -35,4 +35,4 @@ Other competitions visible on [my Kaggle profile](https://www.kaggle.com/kaliden
 - Attribute reused predictions, notebooks, datasets and pretrained models.
 - Explain reproducibility limitations when competition data, hidden tests, or restricted code cannot be distributed.
 
-*Last updated: November 14, 2026 (Google Quantum AI result from user-provided screenshot).*
+*Last updated: November 14, 2026 (Credit Card Fraud and Google Quantum AI screenshots).*
