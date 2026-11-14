@@ -36,7 +36,7 @@ I co-developed a React accessibility prototype. My merged changes covered the in
 | [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) | **0.82534** | 56 / 2,030 teams (Nov. 12, 2026) |
 | [Predicting Airline Satisfaction](https://www.kaggle.com/competitions/playground-series-s6e10) | **0.96238** | **213 / 3,734 teams** (final) |
 | [Name That LLM](https://www.kaggle.com/competitions/name-that-llm) | **0.682** | 403 / 5,535 teams (Nov. 12, 2026) |
-| [Google Quantum AI](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation) | **25.09052** | 1,060 / 2,856 teams (Nov. 12, 2026) |
+| [Google Quantum AI](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation/leaderboard) | **27.30661 public score** | **#194**, Nov. 14, 2026 screenshot; provisional (tied score) |
 | [Gemma 4 Developer Agent](https://www.kaggle.com/competitions/gemma-4-developer-agent) | **0.17** | 2,234 / 5,427 teams (Nov. 12, 2026) |
 
 ### Competition work
@@ -65,7 +65,7 @@ Evaluated successive model-attribution notebooks against Kaggle’s public bench
 
 <a href="https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation"><img src="./assets/quantum-minimal.svg" width="100%" alt="Google Quantum AI" /></a>
 
-Compared candidate circuits, checked validity and evaluated resource use. Raised my personal best from **24.94087 to 25.09052** (**1,060th of 2,856 teams**).
+Compared candidate circuits, checked validity and evaluated resource use. My latest documented public submission scored **27.30661**, shown at **#194** on the **November 14, 2026** leaderboard screenshot (up from the previously recorded **25.09052**). Multiple entries share this displayed score; rank is a provisional snapshot, not a final standing. The screenshot does not by itself verify which notebook or algorithm produced this score.
 
 <a href="./PROJECTS.md#gemma-4-developer-agent--kaggle-competition"><img src="./assets/gemma4-minimal.svg" width="100%" alt="Gemma 4 Developer Agent — coding-agent project" /></a>
 
