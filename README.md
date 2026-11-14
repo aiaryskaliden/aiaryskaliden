@@ -31,7 +31,7 @@ I co-developed a React accessibility prototype. My merged changes covered the in
 
 | Competition | Best recorded score | Leaderboard position |
 | :--- | ---: | :--- |
-| [Predicting Credit Card Fraud](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) | **0.95354 ROC-AUC** | **30 / 1,603 (~top 1.9%)**, public snapshot Nov. 12, 2026; ongoing |
+| [Predicting Credit Card Fraud](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) | **0.95390 public ROC-AUC** | **#38**, Nov. 14, 2026 screenshot; provisional (shared score) |
 | [Enveda CASMI](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra) | **0.487** | 109 / 5,142 teams (Nov. 12, 2026) |
 | [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) | **0.82534** | 56 / 2,030 teams (Nov. 12, 2026) |
 | [Predicting Airline Satisfaction](https://www.kaggle.com/competitions/playground-series-s6e10) | **0.96238** | **213 / 3,734 teams** (final) |
@@ -41,7 +41,7 @@ I co-developed a React accessibility prototype. My merged changes covered the in
 
 ### Competition work
 
-**Credit Card Fraud Detection.** In Kaggle's November 2026 tabular fraud-prediction challenge, my public submission reached **0.95354 ROC-AUC** and **30th of 1,603 ranked entries** on November 12 (temporary public leaderboard; score based on ~20% of test labels). The exact scored notebook and methods still need to be linked before making any claims about the modeling pipeline. [Competition leaderboard](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard).
+**Credit Card Fraud Detection.** I tested and compared successive Kaggle fraud-prediction submissions, checking submission files and their public results. My score improved from **0.95354** to **0.95388**, then **0.95390 public ROC-AUC**, shown at **#38 on November 14, 2026** (screenshot of my Kaggle submissions and leaderboard). These are public, provisional rankings; the exact training pipeline for the latest scored submission has not been independently documented. [Competition leaderboard](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) · [Submission validation and provenance](./projects/credit-card-fraud-s6e11/README.md).
 
 ---
 
