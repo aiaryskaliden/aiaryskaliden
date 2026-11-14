@@ -1,35 +1,39 @@
 # Credit Card Fraud Detection — Kaggle Playground Series S6E11
 
-## Scope and attribution
+## Kaggle result (November 14, 2026)
 
-This portfolio note documents validation of a competition submission for Kaggle Playground Series, Season 6 Episode 11 (credit-card fraud detection).
+**Public ROC-AUC: 0.95390 · Leaderboard position: #38 (snapshot).**
 
-**Important provenance note:** The supplied `s6e11_submission_v3.zip` contains a single `submission.csv` with frozen predictions originating from the public **daoviet / S6E11 GP & DVAE Orthogonal Apex** Kaggle dataset. These predictions were preserved without retraining; they are **not evidence of an independently trained model**. Credit for the prediction ensemble belongs to the original contributors. The dataset metadata identifies the license as CC0.
+I participated in Kaggle's *Predicting Credit Card Fraud* challenge and tested successive prediction submissions, checked their structure, and compared public scores. My submitted results progressed through **0.95354**, **0.95388**, and **0.95390** ROC-AUC. Screenshots of my Kaggle submission history and highlighted leaderboard entry (“Kaliden Aiarys”, 7 submissions, #38) document the progression as of **November 14, 2026**.
 
-- Original source: https://www.kaggle.com/datasets/daoviet/s6e11-gp-dvae-orthogonal-apex
-- Competition: https://www.kaggle.com/competitions/playground-series-s6e11
-- Source filename: `submission_summit_095370.csv`
-- Provided file: `s6e11_submission_v3.zip` containing `submission.csv`
-- Original public predictions are not republished in this repository; download the source from Kaggle.
+[Competition leaderboard](https://www.kaggle.com/competitions/playground-series-s6e11/leaderboard) · [My Kaggle profile](https://www.kaggle.com/kalidenaiarys)
 
-## Submission validation
+This is a **public leaderboard snapshot** in an active competition, not a final private-leaderboard ranking. Multiple entries share the displayed 0.95390 score.
 
-The supplied CSV was checked locally:
+## Reproducibility work
 
-| Check | Result |
+I checked the structure of a supplied competition submission archive, `s6e11_submission_v3.zip`, and documented its prediction-file integrity. The included CSV had:
+
+| Check | Verified result |
 | --- | --- |
-| Shape | 299,984 rows × 2 columns |
+| Rows × columns | 299,984 × 2 |
 | Columns | `id`, `is_fraud` |
-| IDs | 699960–999943, in continuous ascending order, no duplicates |
-| Probabilities | Finite, between 0 and 1, no missing values |
+| IDs | 699960–999943, contiguous and unique |
+| Predicted probabilities | Finite values in [0, 1], no missing values |
 | CSV SHA-256 | `927e8583e6964a138aeda7c63fcb6995d23115f08764ca02f7a22236d37d925b` |
 
-You can reproduce these basic file-quality checks with [`verify_submission.py`](verify_submission.py). A valid CSV structure does **not** establish a leaderboard score or originality of modeling.
+A small [verification script](verify_submission.py) reproduces the structural checks. This is a validation artifact, not a machine-training notebook.
 
-## Result reporting
+## Source attribution and limits
 
-The applicant separately reported an earlier **0.95354 public ROC-AUC** and a **#30 / 1,603** leaderboard snapshot (November 12, 2026). These figures have not been independently verified by this repository and should **not** be presented as the score of the supplied frozen v3 file. The v3 archive metadata explicitly indicates that no online submission of that candidate was made.
+The supplied **v3** CSV preserves frozen predictions from a public **daoviet / S6E11 GP & DVAE Orthogonal Apex** dataset. The underlying ensemble was produced by the dataset contributors; the v3 file **was not trained from scratch** by me. The public source is:
 
-## Purpose
+https://www.kaggle.com/datasets/daoviet/s6e11-gp-dvae-orthogonal-apex
 
-This page transparently records a reproducibility and provenance check of a Kaggle submission artifact. To document independently authored ML work, this repository should later be expanded with the actual training notebook, feature engineering, train/validation strategy, code, and a verified leaderboard record.
+The provenance note applies to **this particular supplied v3 CSV**. It does not establish which source code generated the newer **0.95390** Kaggle score. The screenshots demonstrate my successful submissions and resulting public scores, but do not on their own prove an independently developed model architecture, training pipeline, or novel algorithm. Those claims require the matching code and experiment log.
+
+The original predictions are not republished here. This page documents my Kaggle result, the progression across submissions, and the reproducible validation step without misattributing third-party model work.
+
+## Next documentation step
+
+Add the exact training / transformation / selection notebook and submission mapping for the **0.95390** result when available, including data sources, validation split, feature processing, comparisons, and limitations.
